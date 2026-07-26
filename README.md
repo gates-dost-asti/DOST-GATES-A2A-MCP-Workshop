@@ -19,16 +19,16 @@ OneLab laboratory network. Run by the GATES Data Lakehouse Component.
 
 This branch holds the workshop's code, notebooks, and data. The public Quarto
 website is built from the [`quarto-site`](../../tree/quarto-site) branch — see
-it live at https://gates-dost-asti.github.io/OneLab-Workshop/, including the
-full [Setup Guide](https://gates-dost-asti.github.io/OneLab-Workshop/setup_guide.html).
+it live at https://gates-dost-asti.github.io/DOST-GATES-A2A-MCP-Workshop/, including the
+full [Setup Guide](https://gates-dost-asti.github.io/DOST-GATES-A2A-MCP-Workshop/setup_guide.html).
 
 ## Setup
 
 Short version:
 
 ```bash
-git clone -b training-materials https://github.com/gates-dost-asti/OneLab-Workshop.git
-cd OneLab-Workshop
+git clone -b training-materials https://github.com/gates-dost-asti/DOST-GATES-A2A-MCP-Workshop.git
+cd DOST-GATES-A2A-MCP-Workshop
 conda create -n gates_workshop_env python=3.12 -y
 conda activate gates_workshop_env
 pip install -r requirements.txt
