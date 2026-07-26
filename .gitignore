@@ -1,6 +1,7 @@
 _site/
 .quarto/
 .DS_Store
+output.html
 
 /.quarto/
 **/*.quarto_ipynb

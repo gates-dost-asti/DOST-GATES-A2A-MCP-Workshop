@@ -1,6 +1,0 @@
-service_area_band,province_count,population,population_share_pct
-Local OneLab presence,21,56172372,51.62056741225416
-No local lab; nearest 100-200 km,18,10070434,9.254398535416241
-No local lab; nearest 50-100 km,34,31930363,29.342956279988424
-No local lab; nearest <= 50 km,9,10185536,9.360173498066658
-No local lab; nearest > 200 km,2,459107,0.4219042742745094

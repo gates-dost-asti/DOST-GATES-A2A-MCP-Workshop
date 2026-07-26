@@ -14,16 +14,20 @@ OneLab laboratory network. Run by the GATES Data Lakehouse Component.
 - `onelab_chatbot/` — the finished MCP client/chatbot that calls `onelab_server`.
 - `workflows.py`, `utils.py`, `instructions_and_templates.py` — shared helpers the root-level exercise notebooks import directly.
 - `OneLab.db`, `population.db`, `unique_values/`, `files/` — the data the exercises run against.
-- `analytics/` — example analysis outputs (tables, charts, and maps) referenced in Exercise 1.
 - `TESTQUERIES.md` — sample queries to test each workflow (text-to-SQL, RAG, waypoints, threat filter).
 - `requirements.txt` — Python package list for all notebooks and servers.
 
+This branch holds the workshop's code, notebooks, and data. The public Quarto
+website is built from the [`quarto-site`](../../tree/quarto-site) branch — see
+it live at https://gates-dost-asti.github.io/OneLab-Workshop/, including the
+full [Setup Guide](https://gates-dost-asti.github.io/OneLab-Workshop/setup_guide.html).
+
 ## Setup
 
-See the [Setup Guide](setup_guide.html) for full instructions (VS Code, Miniconda, Node.js, Windows/macOS). Short version:
+Short version:
 
 ```bash
-git clone https://github.com/gates-dost-asti/OneLab-Workshop.git
+git clone -b training-materials https://github.com/gates-dost-asti/OneLab-Workshop.git
 cd OneLab-Workshop
 conda create -n gates_workshop_env python=3.12 -y
 conda activate gates_workshop_env
@@ -31,12 +35,3 @@ pip install -r requirements.txt
 ```
 
 Then open the repo in VS Code, select the `gates_workshop_env` kernel, and start with `Exercise-1.ipynb`.
-
-## Building the site
-
-This repo includes a Quarto website (`index.qmd`). To preview it locally:
-
-```bash
-quarto render
-open _site/index.html
-```
