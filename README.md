@@ -10,7 +10,7 @@ to GitHub Pages. For the workshop notebooks, code, and data, see the
 - `setup_guide.html` — the workshop setup guide, published as part of the site.
 - `Exercise-1.ipynb` / `.html`, `Exercise-2.ipynb` / `.html`, `Exercise-3/` — read-only copies of the exercise notebooks and their rendered output, linked from the site as downloadable resources.
 - `TESTQUERIES.md` — sample queries referenced by the site.
-- `images/`, `analytics/`, `Logo Assets/` — images, charts, maps, and brand assets used by the site.
+- `images/`, `Logo Assets/` — images and brand assets used by the site.
 
 ## Building locally
 

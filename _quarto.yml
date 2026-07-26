@@ -15,8 +15,6 @@ project:
     - Exercise-3/Exercise-3.html
     - Exercise-3/Exercise-3.ipynb
     - Exercise-3/Exercise-3-solution.html
-    - analytics/charts/*.png
-    - analytics/maps/*.png
     - "!**/.DS_Store"
 
 # The page sets its own format (embed-resources, css, nav, etc.) in its

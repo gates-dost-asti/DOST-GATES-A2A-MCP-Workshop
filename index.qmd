@@ -147,33 +147,6 @@ plus the <code>answer_query()</code> method and the <strong>OneLab Agent</strong
 :::
 
 ::: {.landing-section}
-## Sample Analysis Output
-
-<p>The hotspot and service-area workflow doesn't just answer questions. The same
-underlying data drives the maps and charts below, generated straight from
-<code>analytics/tables/</code>.</p>
-
-<div class="gallery">
-<figure>
-<img src="analytics/maps/map_09_classification.png" alt="Province-level OneLab hotspot classification map">
-<figcaption>Province hotspot classification</figcaption>
-</figure>
-<figure>
-<img src="analytics/maps/map_01_agency_count.png" alt="OneLab agency count by province map">
-<figcaption>Agency count by province</figcaption>
-</figure>
-<figure>
-<img src="analytics/charts/chart_01_top_agencies.png" alt="Top 10 provinces by OneLab agency count bar chart">
-<figcaption>Top 10 provinces by agency count</figcaption>
-</figure>
-<figure>
-<img src="analytics/charts/chart_04_service_area_population.png" alt="Population by service area band bar chart">
-<figcaption>Population by service-area band</figcaption>
-</figure>
-</div>
-:::
-
-::: {.landing-section}
 ## How MCP Fits Together
 
 <p>A client asks the server what tools it has, then calls one. It's the same round
@@ -267,10 +240,6 @@ OneLab-Workshop/
 ├── Exercise-3/                # Refactor for A2A
 ├── onelab_server/            # Finished MCP server (FastMCP)
 ├── onelab_chatbot/           # Finished chatbot client + threat filters
-├── analytics/
-│   ├── tables/                # Hotspot &amp; service-area analysis outputs
-│   ├── charts/                 # Sample analysis charts
-│   └── maps/                   # Sample analysis maps
 ├── unique_values/            # Reference value lists (agencies, tests, ...)
 ├── OneLab.db / population.db # Workshop datasets
 ├── TESTQUERIES.md            # Example queries per workflow
