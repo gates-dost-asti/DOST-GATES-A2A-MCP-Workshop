@@ -1,0 +1,992 @@
+#9230 B, SMEWW 21st ed., 2005
+(6063 T6) (EN 755-2 & EN 5733)
+(iQ-check)
+-
+21st Edition Standard Methods for the Examination of Water and Wastewater
+2510B, SMEWW, 22nd Ed. (PIPAC AP 008: Conductivity Meter)
+2540B, SMEWW, 22nd Ed. (PIPAC AP 013: Gravimetry)
+2540C, SMEWW, 22nd Ed. (PIPAC AP 013: Gravimetry)
+2540D, SMEWW, 22nd Ed. (PIPAC AP 013: Gravimetry)
+3114B, SMEWW, 22nd Ed. (PIPAC AP 011: Atomic Absorption Spectrophotometry)
+3500-Cr B, SMEWW, 22nd Ed. (PIPAC AP 014: UV-Vis)
+3M Manual for Total Coliforms
+4500-H+ B, SMEWW, 22nd ed. (PIPAC AP 007: pH Meter)
+4500-H+ B, SMEWW, 22nd ed./PNS 23: 2002 (PIPAC AP 007: pH Meter)
+4500H+ B, SMEWW, 22nd ed./PNS 23: 2002 (PIPAC AP 007: pH Meter)
+5520B, SMEWW, 22nd Ed. (PIPAC AP 012: Partition-Gravimetric Method)
+9221 B-C, SMEWW 22nd ed., 2012
+950.46B (22nd Edition)
+A Guidebook to Plant Screening: Photochemical
+A Guidebook to Plant Screening: Phytochemical & Biological
+A Guidebook to Plant Screening: Phytochemical & Biological (Aguinaldo)
+A.O.A.C., Official Methods of Analysis, 20th Ed., 2016 In house procedure
+AAS
+AAS (Std addition)
+AAS/Flame Emission
+AAS; In house method
+AATCC Technical Manual
+ACS Reagent Chemicals
+AFNOR Validation, 2014 Certificate reference n° QUA 18/03-11/02, with end of validity 28th -NOV.2018
+AISI 1018
+AISI 4140
+AOAC
+AOAC "Nutrents (Minor) in Fertilizers, AAS Method" (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC "Nutrients (Minor) in Fertilizers, AAS Method" (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC "Nutrients (Minor) in Fertilizers, AAS Method" (18th Ed., 2005, Current Through Rev. 3, 2010) / Fertilizer Method of Analysis (FM-811) / AOAC Method 965.09 (16th Ed., Vol. 6 (1961)
+AOAC / BAM
+AOAC 033.08
+AOAC 18th ed, 2005
+AOAC 19th Ed
+AOAC 19th Edition
+AOAC 2000.01, 18th ed./ CEN/TC 275 N 396 add (2000) (PIPAC AP 024: Gas Chromatography-Mass Spectrometric Detection)
+AOAC 2011.14
+AOAC 22nd Edition
+AOAC 900.02/940.26, 18th Ed. AOAC 920.153/923.03, 18th Ed. (PIPAC AP 015: Gravimetry)
+AOAC 920.157
+AOAC 920.158/159
+AOAC 920.160
+AOAC 920.212
+AOAC 920.39
+AOAC 921.08
+AOAC 922.06 19th Ed.,2012
+AOAC 925.45/934.06, 18th Ed. AOAC 934.01/920.155/925.10, 18th Ed. (PIPAC AP 015: Gravimetry)
+AOAC 925.55
+AOAC 925.56
+AOAC 927.05 19th Ed., 2012
+AOAC 930.15 19th Ed., 2012
+AOAC 930.30 19th Ed. 2012
+AOAC 930.35
+AOAC 930.36
+AOAC 932.11
+AOAC 932.14X (22nd Edition)
+AOAC 935.58/981.10/928.08, 18th Ed. AOAC 981.10/928.08, 18th Ed. (PIPAC AP 017:  Modified Kjeldahl Method)
+AOAC 938.11, 18th Ed. (PIPAC AP 023: High Performance Liquid Chromatography)
+AOAC 940.28
+AOAC 942.05 19th Ed. 2012
+AOAC 942.15 (22nd Edition)
+AOAC 944.10
+AOAC 950.77
+AOAC 952.08
+AOAC 955.04
+AOAC 956.01, 19th Ed.
+AOAC 958.01, 18th Ed. (PIPAC AP 001: Visible Spectrophotometry)
+AOAC 962.12
+AOAC 965.33
+AOAC 968.06 and 990.03 19th ed., 2012 and Elementar Rapid N cube manual
+AOAC 970.33
+AOAC 977.15, 18th Ed. (PIPAC AP 005: Cold Vapor Atomic Absorption Spectrophotometry)
+AOAC 977.20 Modified
+AOAC 978.10
+AOAC 978.10 19th Ed.,2012
+AOAC 978.18
+AOAC 981.12 (22nd edition)
+AOAC 985.19
+AOAC 985.35
+AOAC 985.35 19th Ed., 2012
+AOAC 991.2 19th Ed.,2012
+AOAC 992.16/985.29, 18th Ed. (PIPAC AP 041: Enzymatic-Gravimetric Method)
+AOAC 992.39/922.06, 18th Ed. (PIPAC Ap 029: Gas Chromatography)
+AOAC 994.10
+AOAC 996.06 & ISO 16958:2015
+AOAC 997.02
+AOAC 999.10
+AOAC 999.11
+AOAC Method
+AOAC Method 56, 147 (1973) / AOAC Method 50, 5 (1967) / Perkin Elmer Analytical Methods for AAS
+AOAC Method 920.04 (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 920.97 (Modified)
+AOAC Method 922.06 (Modified)
+AOAC Method 923.03
+AOAC Method 925.09
+AOAC Method 925.10
+AOAC Method 925.18 (Modified)
+AOAC Method 925.51
+AOAC Method 925.56 (Modified)
+AOAC Method 928.02 (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 930.02 (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 934.01, 964.22, 926.08, 927.05, 945.43, 925.09, 920.151A, 925.40, 926.12
+AOAC Method 935.57
+AOAC Method 938.08
+AOAC Method 940.28
+AOAC Method 941.15 Modified
+AOAC Method 955.04-C (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 955.04-D (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 957.02 C (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 957.02 C, 958.01 A-E (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 960.04 A-C (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 965.08 (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 965.33
+AOAC Method 966.16 Modified
+AOAC Method 967.21 (Modified)
+AOAC Method 967.21 (not applicable to dark colored juices)
+AOAC Method 968.28
+AOAC Method 968.28 (Modified)
+AOAC Method 974.29 (Modified)
+AOAC Method 981.12
+AOAC Method 982.01 A-D (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 983.04 (18th Ed., 2005, Current Through Rev. 3, 2010)
+AOAC Method 985.35
+AOAC Method 985.35 (Modified)
+AOAC Method 991.20
+AOAC Method 991.20 (Modified)
+AOAC Method 991.39
+AOAC Method 991.43 (Modified)
+AOAC Method 994.10
+AOAC Method 999.10
+AOAC Method 999.10 (Modified)
+AOAC Official Method
+AOAC Official Method 905.02
+AOAC Official Method 920.152
+AOAC Official Method 920.153
+AOAC Official Method 920.165
+AOAC Official Method 920.39
+AOAC Official Method 920.53
+AOAC Official Method 920.54
+AOAC Official Method 920.85
+AOAC Official Method 923.03
+AOAC Official Method 925.30
+AOAC Official Method 925.31
+AOAC Official Method 925.32
+AOAC Official Method 925.51
+AOAC Official Method 925.85
+AOAC Official Method 928.08
+AOAC Official Method 930.09
+AOAC Official Method 930.30
+AOAC Official Method 938.08
+AOAC Official Method 939.02
+AOAC Official Method 940.12
+AOAC Official Method 940.2
+AOAC Official Method 940.26
+AOAC Official Method 942.05
+AOAC Official Method 948.15
+AOAC Official Method 950.09
+AOAC Official Method 950.54
+AOAC Official Method 954.01
+AOAC Official Method 960.39
+AOAC Official Method 963.15
+AOAC Official Method 978.04
+AOAC Official Method 985.29
+AOAC Official Method 991.22
+AOAC Official Method 991.25
+AOAC Official Method 998.08
+AOAC Official Methods of Analysis
+AOAC Official Methods of Analysis 19th ed., method 2003.12
+AOAC Official Methods of Analysis 20th ed., 2016, method 900.02
+AOAC Official Methods of Analysis 20th ed., 2016, method 920.100
+AOAC Official Methods of Analysis 20th ed., 2016, method 920.116
+AOAC Official Methods of Analysis 20th ed., 2016, method 920.117
+AOAC Official Methods of Analysis 20th ed., 2016, method 920.151
+AOAC Official Methods of Analysis 20th ed., 2016, method 920.93
+AOAC Official Methods of Analysis 20th ed., 2016, method 923.03
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.10
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.19
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.30
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.40
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.45
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.51
+AOAC Official Methods of Analysis 20th ed., 2016, method 925.55B
+AOAC Official Methods of Analysis 20th ed., 2016, method 926.08
+AOAC Official Methods of Analysis 20th ed., 2016, method 927.05
+AOAC Official Methods of Analysis 20th ed., 2016, method 930.04
+AOAC Official Methods of Analysis 20th ed., 2016, method 930.15
+AOAC Official Methods of Analysis 20th ed., 2016, method 930.30
+AOAC Official Methods of Analysis 20th ed., 2016, method 931.04
+AOAC Official Methods of Analysis 20th ed., 2016, method 934.06
+AOAC Official Methods of Analysis 20th ed., 2016, method 935.42
+AOAC Official Methods of Analysis 20th ed., 2016, method 938.08
+AOAC Official Methods of Analysis 20th ed., 2016, method 940.26
+AOAC Official Methods of Analysis 20th ed., 2016, method 941.12A
+AOAC Official Methods of Analysis 20th ed., 2016, method 942.05
+AOAC Official Methods of Analysis 20th ed., 2016, method 945.18
+AOAC Official Methods of Analysis 20th ed., 2016, method 945.39B
+AOAC Official Methods of Analysis 20th ed., 2016, method 945.46
+AOAC Official Methods of Analysis 20th ed., 2016, method 950.46B
+AOAC Official Methods of Analysis 20th ed., 2016, method 950.49
+AOAC Official Methods of Analysis 20th ed., 2016, method 952.08
+AOAC Official Methods of Analysis 20th ed., 2016, method 964.22
+AOAC Official Methods of Analysis 20th ed., 2016, method 968.11
+AOAC Official Methods of Analysis 20th ed., 2016, method 972.15
+AOAC Official Methods of Analysis 20th ed., 2016, method 978.18
+AOAC Official Methods of Analysis 20th ed., 2016, method 984.25
+AOAC Official Methods of Analysis 20th ed., 2016, method 990.02C
+AOAC Official Methods of Analysis 20th ed., 2016, method 990.28
+AOAC Performance Test Certificate No. 030502
+AOAC Performance Test Certificate No. 040702
+AOAC after dry ashing 985.31, 19th Ed.
+AOAC after dry ashing 999.11, 19th Ed.
+AOAC, 19th Ed.
+AOAC, 19th edition
+AOAC, 19th edition / In house Method
+AOAC, 2005, 18th edition 984.14 Head-Space GC-FID & Shimadzu Application News No. AD-0107 & AD-0108
+AOAC-RI Certificate No. 960701
+AOCS
+AOCS Ce 1C-89
+AOCS Ch2a-94 (Modified)
+AOCS Official Method Ca 52-40
+APHA 9221, 2005
+ASEAN
+ASEAN Harmonized Method
+ASME IX
+ASTM
+ASTM 
+240/240M
+ASTM -F1145
+ASTM 1762 (modified)
+ASTM 412/
+ASTM 570
+ASTM A 194
+ASTM A 572/A572M
+ASTM A123 / PNS 49:2020
+ASTM A36/A36M
+ASTM A416 / ASTM 1061
+ASTM A53
+ASTM A615, ASTM A615M, ASTM E290, BS 4449, DIN 488-2, API 5L, ISO 15630 -1, ISO 7438
+ASTM A706/ ASTM A1034/ A1034M & ASTM F1554
+ASTM C 146-94a
+ASTM C110
+ASTM C114
+ASTM C1301 & MSAP Mines & Geosciences Bureau Labs.
+ASTM C25
+ASTM C471
+ASTM D 1298
+ASTM D 1394
+ASTM D 1475
+ASTM D 1640
+ASTM D 1762
+ASTM D 2270
+ASTM D 2361-66
+ASTM D 2556
+ASTM D 2564/1084
+ASTM D 2697
+ASTM D 3286
+ASTM D 3359
+ASTM D 3363
+ASTM D 3682-78
+ASTM D 3684-78
+ASTM D 4239
+ASTM D 445
+ASTM D 482
+ASTM D 5035
+ASTM D 523
+ASTM D 5373
+ASTM D 562
+ASTM D 566
+ASTM D 874
+ASTM D 95
+ASTM D 974
+ASTM D1210
+ASTM D130
+ASTM D1613
+ASTM D2013
+ASTM D2022
+ASTM D2261
+ASTM D2369
+ASTM D2371
+ASTM D2729:1996a
+ASTM D3124
+ASTM D3125
+ASTM D3172
+ASTM D3173
+ASTM D3173 Vol. 04.01C 25-99
+ASTM D3302
+ASTM D3935/
+ASTM D256
+ASTM D4052/ASTM D1298
+ASTM D412
+ASTM D412-16
+ASTM D4239
+ASTM D445
+ASTM D5035
+ASTM D522
+ASTM D562
+ASTM D5865
+ASTM D6413/6413M
+ASTM D891
+ASTM E 247-01 (2005)
+ASTM E 278-01
+ASTM E 507-08
+ASTM E 542-01
+ASTM E-11-61 & ASTM D E 276-68
+ASTM E10-93
+ASTM E18-93
+ASTM E415-17
+ASTM E534
+ASTM E70
+ASTM F1554
+ASTM Vol. 04.01:C25-99
+ASTM part 13
+ASTS
+AWS D1-1
+Acid Hydrolysis
+Addt'l fee for extraction
+Air Oven Method
+American Journal Medicine 8:445-455, 1950
+American Journal of Hematology, Vol. 23, Issue 2, pp. 141-151, Oct. 1986
+American Oil Chemist's Society
+Analytical and Quality Control Method
+Annual Book of ASTM Standards
+Annual Book of ASTM Standards Vol. 07.01/.02
+Annual Book of ASTM Standards, Section 7
+Annual Book of ASTM for Coal & Coke
+Annual Review of Nutrition 4:377-407, 1984
+Aquaculture Feed Microscopy Manual
+Argentometric Titration
+As per operating manual and experimental procedure
+Ascorbic
+Australian Standard 1349-1986
+B557M
+BAM
+BAM 6th/8th
+BAM Online
+BAM Online 2001 Chapter 18 /Edition 8
+BAM Online 2001 Chapter 3 , CAM MFHPB Chapter 22
+BAM Online 2001 Chapter 3 /Edition 8
+BAM Online 2001 Chapter 4 /Edition 8
+BAM Online 2001/Edition 8
+BAM Online 2002 Chapter 4 F/Edition 8
+BAM Online Chapter 12, CAM MFHPB Chapter 21
+BAM Online Chapter 4, CAM MFHPB Chapter 19
+BAM Online Chapter 4, CAM MFHPB Chapter 31
+BAM Online Chapter 4/OMA AOAC 18th Edition
+BAM online
+BAM, 2004 Chapter 9
+BAM2001**/Compedium
+BPS-PNS
+BTD Manual Qualitative
+Bacteriological Analytical Manual (BAM)
+Bacteriological Analytical Manual (BAM), ISO 11137-1 & ISO 11137-2
+Bacteriological Analytical Manual, 2001
+Bacteriological Analytical Manual, Online 2001 US Food and Drug Administration
+Biotech Diagnostic Validation Data Report Food proof Porcine Detection Lyokit 5'Nuclease 11/2015
+Block Digestion Method
+British Handbook No. 11
+Brucine
+Bureau of Plant Industry (BPI) Quarantine AO No. 02 Series of 2008. Rules and Regulations for the Importation, Exportation and Domestic Movement of Irradiated Plant and Plant Products and the Use of I
+By Computation, The Philippine Composition Tables (FNRI)
+By Computation, The Philippine Composition Tables (FNRI), 1997
+C 1218-92
+CISPR 11
+CISPR 13
+CISPR 14-1
+CISPR 15
+CISPR 22 (1GHz to 6 GHz)
+CISPR 22 / FCC Part 15 Subpart B & C (30 to 1000 MHz)
+CISPR14-2
+CV-AFS
+Calibration of Weights and Balances by Edwin C. Morris & Kitty M.K.Fen
+Chapter 3, BAM(Online), 2001
+Clinical Chemistry 14 (1), 1-5, 1968
+Clinical Chemistry and Laboratory Medicine, Med Lab Sci 44:33-44, 1987
+Code of Federal Regulations 40 Part 50, Appendix A to Part 50, page 18-33
+Code of Federal Regulations 40 Part 60, Volume 2 of 2, page 169-195
+Code of Federal Regulations 40 Part 60, Volume 2 of 2, page 241-249
+Code of Federal Regulations 40 Part 60, Volume 2 of 2, page 264-270
+Code of Federal Regulations, rev July 1, 2003
+Codex Alimentarius Commission . Code of Practice for Radiation Processing of Food (CAC/RCP 19-1979 REV 1-2003). Codex Alimentarius Commission. General Standard for Irradiated Foods (CODEX STAN 106-198
+Colorimetry
+Comparison
+Compeduim
+Compendium of Methods for Methods for the Microbiological Examination of Foods
+Compendium of Methods for the Microbiological Examination of Foods (APHA), 5th ed., 2015, Chapter 10
+Compendium of Methods for the Microbiological Examination of Foods (APHA), 5th ed., 2015, Chapter 20
+Compendium of Methods for the Microbiological Examination of Foods (APHA), 5th ed., 2015, Chapter 32
+Compendium of Methods for the Microbiological Examination of Foods, 2001
+Compendium of Methods for the Microbiological Examination of Foods/Fourth Edition, 2001
+Conventional
+Customer Requirement
+Customer requirement
+Cut Middles Method
+DEUTSCHER KALIBRIERDIENST
+DIG22S (In house method)
+DIN 8077:1999 
+DIN 8078:1996
+DKD R6-1
+DKD-R 6-1
+DKD-R-6
+DR/870 Colorimeter Procedures Manual
+Das Gupta’s Method
+Defstan
+Defstan 91-91; Joint Inspection Group
+Defstan 91-91; Joint Inspection Group;
+Defstan 91-91; Joint Inspection Group; customer requirement
+Defstan; PNS std.
+Direct Ashing
+Direct Mercury Analyzer Manual
+Distillation / Titration
+Dry Ashing, acid digestion and Quantitation by inductively coupled plasma optical emission spectometer
+Dry Rehydratable Film (Petrifilm) Method
+EDTA Titration
+EDTA-By Difference
+ELISA
+EN 12823-2 ICS 67.040 (2000) (PIPAC AP 018: Higher Performance Liquid Chromatography)
+EURAMET CG-15 / EA-10/15
+EURAMET CG-21
+Electrical Conductivity Method
+Electrometric Method
+Equipment Manual
+Euramet
+Euramet cg-11 & ITS-90 table for thermocouples & RTD
+Euramet cg-15
+Euramet cg-18
+European Medicine Agency (EMA) and US FDA Bioanalytical Method Guidelines
+Evans W.C. Pharmacognosy 16th Ed. Sounders Ltd., USA, 2009(Print)
+FAO Food and Nutrition Paper 77, 2002
+FAO; CIPAC
+FCC Part 15 Subpart B & C (1GHz to 18 GHz )
+FDA BAM-10, 2011
+FDA BAM-12, 2001
+FDA BAM-14, 2001
+FDA BAM-18, 2001
+FDA BAM-3, 2001
+FDA BAM-4, 2001
+FDA BAM-4, 2002
+FDA BAM-5, 2001
+FDA Bacteriological Analytical Manual
+FDA Bacteriological Analytical Manual / Compendium of Methods for Methods for the Microbiological Examination of Foods
+FDA Bacteriological Analytical Manual / Oxoid Manual
+FDA Bacteriological Analytical Manual online, Chapter 12, March 2016
+FDA Bacteriological Analytical Manual online, Chapter 14, February 2012
+FDA Bacteriological Analytical Manual online, Chapter 16, January 2001
+FDA Bacteriological Analytical Manual online, Chapter 18, January 2001
+FDA Bacteriological Analytical Manual online, Chapter 3, January 2001
+FDA Bacteriological Analytical Manual online, Chapter 4, February 2013
+FDA Bacteriological Analytical Manual online, Chapter 6, Fabruary 2013
+FDA Bacteriological Analytical Manual online, Chapter 9, May 2004
+FDA-BAM 8th ed.
+FNRI Food Composition Table
+FTIR
+Fat extraction+Titration
+Fertiliser Association of India. The Fertiliser (Control) Order 1985. 10th Edition.
+Fertiliser Association of India. The Fertiliser (Control) Order 1985. 10th Edition. / Recommended soil testing procedures for the Northeastern United States (Schulte, E. et.al., 2009) / Methods for th
+Fluke Black Body IR Calibrator
+Food Chemistry, Vol. 43, 1992, pp. 51-56
+Food analysis 2nd ed.
+GAFTA Analysis Method
+GC
+GF-AAS
+Gas Chromatography
+Grain and Feed Trade Association, GAFTA, January 01, 2003, method 4:0
+Gravimetric
+Gravimetric Method
+Gravimetry
+Guevarra 2005
+Guidebook to Plant Screening: Phytochemical & Biological (Aguinaldo)
+HPLC
+HPLC UV
+Hach Method 10129
+Human Cytogenetics, Constitutional Analysis 3rd Edition, 2001, D.E. Rooney
+Human Cytogenetics, Malignancy and Acquired Abnormalities 3rd Edition, 2001, D.E. Rooney
+IAEA RS-G-1.3 (Safety Guide, 1999)
+IAEA SRS No.16 (2000)
+IAEA TECDOC-1079 (1999)
+IAEA TECDOC-602 (1991)
+IAEA TRS NO. 398 (2000)
+IAEA-EPR Biodosimetry 2011
+IC
+ICP
+ICP, in house method
+ICP-OES
+ICSH Standard EP 6/2-3:1977
+ICUMSA GS1/3/4/7/8-13, 1994 ICUMSA GS2/3-17, 2007
+ICUMSA Method GS2/3/9-5 (2011)
+ICUMSA Method GS3/4/7/8-11 (2002)
+IPC-A-610
+ISO
+ISO 11137-1 & ISO 11137-2
+ISO 11137: Radiation Sterilization of Medical Devices
+ISO 11290-1: 2004
+ISO 11290-1:2017 (Conventional Method)
+ISO 1167
+ISO 11731 : 2017
+ISO 11885:2007
+ISO 124:2014
+ISO 125:2011 (E)
+ISO 126:2005 (E)
+ISO 127:2012
+ISO 1443: 1973-04-15 (Codex STAN Method) AOAC 922.06, 18th Ed. (PIPAC AP 016: Acid Hydrolysis, Pet Ether Extraction, and Gravimetry)
+ISO 1452-2:2009
+ISO 15214 : 1998
+ISO 16266 : 2006
+ISO 1652:2011
+ISO 1656:2014
+ISO 188 (adapted)
+ISO 19250:2010(E)
+ISO 1974
+ISO 2005:2014
+ISO 2007:2018
+ISO 21528-2 : 2017
+ISO 21872-1:2017 (Conventional Method)
+ISO 21872-1:2017*(Real-time PCR Method)
+ISO 247-1:2018
+ISO 247:2006, 4th Edition
+ISO 248-1:2011, 1st Edition
+ISO 248:2011
+ISO 249:2014, 4th edition
+ISO 249:2016
+ISO 289-1:2015
+ISO 35:2004 (E)
+ISO 4435:2003
+ISO 4660:2011
+ISO 4660:2011, 4th Edition
+ISO 4787:2010 and Euramet cg-19
+ISO 506: 1992(E)
+ISO 6579 :2017
+ISO 706:2004
+ISO 7175-2
+ISO 7438
+ISO 7503
+ISO 8217:2012
+ISO 8217:2012; PNS Standards
+ISO 8655-2; DKD-R 8-1; Euramet cg-19
+ISO 976:2013
+ISO 9978
+ISO International standards
+ISO Standard
+ISO Standards 3rd Ed. 2003
+ISTD
+ISTD, HPLC
+ISTD,HPLC
+ITDI
+In House Method
+In house Method
+In house method
+In-House Method : TM-PM-116 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nded.,2012. part 4500 SO42- E
+In-House Method : TM-PM-117 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 5540 C
+In-House, FDA Procedure
+In-House, Modified AOAC 999.11 19th ed. 2012
+In-house Method
+In-house Method : TM-PM-019 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2540B
+In-house Method : TM-PM-086 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2340C
+In-house Method : TM-PM-090 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012.2 part 2540 D
+In-house Method : TM-PM-107 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2120C
+In-house Method : TM-PM-108 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2150B
+In-house Method : TM-PM-110 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2130B
+In-house Method : TM-PM-111 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. Part 4500-Cl-  B
+In-house Method : TM-PM-112 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 4500 CN- C,E
+In-house Method : TM-PM-113 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 4500-F- D
+In-house Method : TM-PM-115 base on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 5530 B,C
+In-house Method : TM-PM-149 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012.2 part 2540 D
+In-house Method Based on FDA Bacteriological Analytical Manual online, Chapter 3, January 2001
+In-house Method based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part 2150B
+In-house Method based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. part4500-Norg
+In-house Method: TM-PM-109 Standard base on Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012. Part 4500-H+ B
+In-house Method: TM-PM-140 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA,WEF., 22nd ed.,2012.2 part 2540 D
+In-house Validated method (AOAC; EPA; Quechers)
+In-house developed (HPLC)
+In-house method
+In-house method : TM-LC-060 based on Journal AOAC 2003, Vol.86, No.2, P.412-431
+In-house method : TM-MIC-013 based on Standard Method for the Examination of Water and Wastewater, APHA, AWWA &WEF,22nded., 2012,Part 9213 B
+In-house method : TM-MIC-014 based on ISO 6461-2:1986
+In-house method : TM-PM-020 based on AOAC Official Methods of Analysis 20th ed., 2016, method 942.15
+In-house method : TM-PM-114 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA & WEF., 22nd ed.,2012. part 4500- NO3- A, B
+In-house method : TM-PM-148 based on ISO 2918:1975(E)
+In-house method :TM-HM-084 based on AOAC Official Methods of Analysis 20th ed., 2016, method 999.10
+In-house method :TM-HM-098 based on AOAC Official Methods of Analysis 20th ed., 2016, method 999.10
+In-house method :TM-HM-119 based on AOAC official Methods of Analysis 20th ed., 2016,method 968.08, 999.10
+In-house method PIPAC AP 003 (Thin Layer Chromatography)
+In-house method PIPAC AP 004 (Fluorometry)
+In-house method PIPAC AP 009 (Gravimetry)
+In-house method PIPAC AP 010 (Visible Spectrophotometry)
+In-house method PIPAC AP 025 (Gas Chromatography)
+In-house method based on AOAC  Official Methods of Analysis 20th ed., 2016, method 920.44
+In-house method based on AOAC Official Methods of Analysis 20th ed., 2016, method 990.20
+In-house method based on AOCS Official Method Ca 6a-40
+In-house method based on AOCS Official Method Cd 3-25
+In-house method based on AOCS Official Method Cd 3a-63
+In-house method based on AOCS Official Method Cd 8-53
+In-house method: TM-HM-074 based on Standard Method for the Examination of Water and  Wastewater APHA,AWWA & WEF., 22nd ed., 2012. Part 3125 B
+In-house method: TM-PM-072 based on AOAC Official Methods of Analysis 20th ed., 2016, method 995.11
+In-house method: TM-PM-076 based on AOAC Official Methods of Analysis 20th ed., 2016, method 978.10
+In-house method: TM-PM-077 based on AOAC Official Methods of Analysis 20th ed., 2016, method 937.09
+In-house method: TM-PM-078 based on AOAC Official Methods of Analysis 20th ed., 2016, method 922.06
+In-house method: TM-PM-078 based on AOAC Official Methods of Analysis 20th ed., 2016, method 925.32
+In-house method: TM-PM-078 based on AOAC Official Methods of Analysis 20th ed., 2016, method 948.15
+In-house method: TM-PM-078 based on AOAC Official Methods of Analysis 20th ed., 2016, method 950.54
+In-house method: TM-PM-078 based on AOAC Official Methods of Analysis 20th ed., 2016, method 954.02
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 920.103
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 920.152
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 935.39
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 950.48
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 981.10
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 984.13
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 992.15
+In-house method: TM-PM-079 based on AOAC Official Methods of Analysis 20th ed., 2016, method 992.23
+In-house method: TM-PM-079 based onAOAC Official Methods of Analysis 20th ed., 2016, method 920.87
+In-house method: TM-PM-079 based onAOAC Official Methods of Analysis 20th ed., 2016, method 950.36
+In-house method: TM-PM-129 based on AOAC Official Methods of Analysis 20th ed., 2016, method 985.29
+In-house method: TM-PM-137 based on AOAC Official Methods of Analysis 20th ed., 2016, method 943.02
+In-house method: TM-PM-147 based on AOAC Official Methods of Analysis 20th ed., 2016, method 989.05, 995.19
+In-house method: TM-PM-153 based on AOAC Official Methods of Analysis 20th ed., 2016, method 965.17
+In-house method: TM-PM-155 based on AOAC Official Methods of Analysis 20th ed., 2016, method 920.39
+In-house procedure
+In-house validated
+In-house validated; with ISO17025:2008 accreditation
+International Organization for Standardization
+International Wool Secretariat
+Isocratic Modification Bieri's HPLC
+JETRO 2011
+JIS B 7153:1995
+JIS B 7184:1999
+JIS B 7420:1997
+JIS B 7502:1994
+JIS B 7503:1997
+JIS B 7506:2004
+JIS B 7507:1993
+JIS B 7512:1993
+JIS B 7513:1992
+JIS B 7516:2005
+JIS B 7517:1993
+JIS B 7524:1992
+JIS B 7533:1990
+JIS B 7544:1994
+JIS G 3131
+JISM 5584
+Japan External Trade Organization (JETRO)
+Japan Industrial Safety & Health Association (JISHA)
+Japan International Standard
+Journal of Food Science 41, 1282 (1976) (PIPAC AP 002: Fluorometry)
+Kjeldahl
+Kjeldahl Titration
+Kjeltec Auto Analyzer
+LaMotte Operations Manual
+Laboratory Method
+Laboratory Validated
+Laboratory-developed method
+Lees. Food Analysis. Analytical and quality control methods for the manufacturer and buyer
+Lodge
+M.A. Dita et al (2010)
+MIL standard
+MIL standard; customer requirement
+MML-NTP
+MP-AES
+MPN Method
+MS 1449:PART 1:1999
+MS 1449:PART 4:1999
+MS 1449:PART 5:1999
+MS 1449:PART 6:1999
+MS 1449:PART3:1999
+MS 281 PART 17:2007
+MS 281 PART 18:2007
+MSAP Mines & Geosciences Bureau Labs.
+MSAP Mines & Geosciences Bureau Labs./ASTM C1301-95 (Reapproved 2001)
+MTFT (SMEWW)/Pour Plate Method (SMEWW)/MTFT (SMEWW)
+Manual for Photometer SQ 118, Method 1139
+Merck Manual
+Merck Rapid Test
+Merck SQ Test Kit
+Method 29-Determination of Sulfur Dioxide Emissions from Stationery Sources; Code of Federal Regulations, Part 60
+Method 406(Lodge)
+Method 415/404(Lodge)
+Method 5-Determination of Sulfur Dioxide Emissions from Stationery Sources; Code of Federal Regulations, Part 60
+Method 6-Determination of Sulfur Dioxide Emissions from Stationery Sources; Code of Federal Regulations, Part 60
+Method 7-Determination of Nitrogen Dioxide Emissions from Stationery Sources; Code of Federal Regulations, Part 60
+Method 704(Lodge)
+Method 8-Determination of Sulfur Dioxide Emissions from Stationery Sources; Code of Federal Regulations, Part 60
+Method 801/401 (Lodge)
+Method 806/202(Lodge)
+Method 808(Lodge)
+Method 809/205(Lodge)
+Method of Analysis for Nutrition Labeling, AOAC,1993, chapter 6
+Methods of Air Sampling
+Methods of Air Sampling & Analysis 3rd ed.by JP Lodge
+Methods of Air Sampling & Analysis 3rd.ed.by JP Lodge
+Methods of Air Sampling and Analysis 3rd ed. By J.P. Lodge
+Methods of Air Sampling and Analysis James P. Lodge, 3rd Edition, Lewis Publishers, Inc., page 427-439
+Methods of Air Sampling and Analysis, 3rd Ed.
+Microbiology Manual 2005
+Micrometer Calibration 2016
+Microscopical method
+Modified AOAC 920.39 19th Ed., 2012
+Moisture Analyzer Manual
+N/A
+NEOGEN - AccuPoint Advanced HC user's guide
+NIOSH
+NIOSH 0500
+NIOSH 0600
+NIOSH 1400
+NIOSH 5026
+NIOSH 6604
+NIOSH 7082(Pb only)with other metals
+NIOSH 7301
+NIOSH 7401
+NIOSH 7600
+NIOSH 7903
+NIOSH Manual of Analytical Methods
+NIST
+NONE
+None
+None/AOAC 923.03/AOAC 925.10/AOAC 981.10/AOAC 945.44/AOAC 923.09/Calculation/Nutrition Facts Computation
+None/AOAC 940.26/AOAC 934.01/AOAC 981.10/AOAC 920.39/AOAC 923.09/Calculation/Nutrition Facts Computation
+Nutrition Labeling Requirements of the USFDA
+Nutrition Labelling Requirements of the United States FDA
+OIML R 111-1
+OIML R 111-1 / OIML R 76-1
+OIML R 111-1 / OIML R 76-1 / EURAMET CG-18
+OIML R 111-1 / OIML R 76-1 / PNS 238:1989
+OIML R 133
+OIML R 148
+OIML R 80
+OIML R-111
+OIML R-120
+OIML R-III
+OIML R111-1
+OIML R80-1 and EURAMET CG-21
+OIML Recommendation 111
+OIML-RIII
+OMA AOAC 18th Edition
+OMA AOAC Chapter 17, subchapter 6, Sterility (Commercial) of Foods
+Occasional Customer requirement
+Official Method of Analysis of AOAC International
+Official Methods of Analysis of AOAC International 18th ed, 2005 and Shimadzu Application News No. A
+Official Methods of Analysis of AOAC International 18th ed, 2005 and Shimadzu Application News No. AD-0107 and 0108
+Official Methods of Analysis of AOAC International 20th ed, 2016 and Agilent Application
+Official Methods of Analysis of AOAC International, 18th ed., 2005, current through revision 3, 2010
+Official Methods of Analysis of AOAC International, 19th ed., 2012
+Official Methods of Analysis of AOAC International, 19th edition, 2012
+Official Methods of Analysis of AOAC International.19th edition. 2012
+Official Monographs: Glutathione. USP 37-NF 32(2014) (PIPAC AP 019: High Performance Liquid Chromatography
+Official Monographs: Hydroquinone. USP 37-NF 32 (2014) (pipac ap 020: High Performance Liquid Chromatography)
+Oxoid Manual
+PCR Method
+PNS
+PNS 03-3:2020
+PNS 113:2005
+Low carbon steel wires – plain,
+PNS 136
+PNS 136:2000
+Steel - Wire nails – Specification"
+PNS 1478-2:2018
+PNS 1478:1998
+
+PNS 1478-1:2018
+PNS 14:1983 Amendment 01:1987
+and/or
+PNS 14:2005
+PNS 15-1:1989
+PNS 15-3:1991
+PNS 15-4:1991
+PNS 15-5:1996
+PNS 152:1987 /
+PNS 152:2003
+PNS 156:2000
+PNS 156:2010
+PNS 193:2005 
+PNS 193:2012 
+PNS 193:2018
+PNS 1950:2003
+Corrigendum 01:2003 and/or
+PNS 1950:2010
+PNS 1990:2004
+PNS 1993:2004
+PNS 201:1990
+PNS 2085:2011
+PNS 211
+PNS 211:2002
+PNS 2145:2020
+PNS 239 /FMVSS 116 PART A 6.1
+PNS 239 /FMVSS 116 PART A 6.2
+PNS 239 /FMVSS 116 PART H 6.8
+PNS 239 /FMVSS 116 PART K 6.11
+PNS 239 /FMVSS 116 PART L 6.12
+PNS 239: 1989
+PNS 25:1994, Pneumatic tires
+PNS 26
+PNS 26:1992 / PNS 26:2018
+PNS 26:1992 / PNS 26:2018*
+PNS 34:2000
+PNS 49
+PNS 49/211
+PNS 49:2002/ PNS 49:2020
+PNS 657:2008
+PNS 65:1993
+PNS 67:2014
+PNS DOE QS 007:2014
+PNS ISO 12465:2017
+PNS ISO 13006:2019
+PNS ISO 1656:2014
+PNS ISO 289-1:2015
+PNS ISO 2930:2009
+PNS ISO 4427
+AMD 01:2002 /
+PWWA NM 201:2002
+PNS ISO 7173:2006
+PNS Standards; Defstan 91:91
+PNS Standards; Defstan 91:91; ISO 8217:2012
+PNS-03
+PNS/DOE QS 002:2007
+PNS/DOE QS 004:2012
+PNS/DOE QS 007:2014
+PNS/DOE QS 008:2012
+PNS/DOE QS 008:2012; PNS/DOE QS 004:2012
+PNS/DOE QS 009:2007
+PNSDW 2017
+PRC Method
+Paper Disc
+Performance Tested AOAC License # 960801
+Perkin Elmer Microwave Sample Preparation System, 2014
+Phil. Standard Methods for Air & Water, Vol. 3
+Philippine National Standard/Bureau of Products Standards/Department of Trade and Industry
+Philippine Standard Method for Air & Water, Volume 3
+Philippine Standard Method of Proximate Analysis of Charcoal
+Physikalisch-Technische Bundesanstalt (PTB)
+Platinum Standard
+Platinum Standard Thermometer
+Pour Plate Method
+Probe Method/EDTA-Titrimetic Method/TDS dried at 180°C
+Qualitative
+Quantitave Analysis by Day/Underwood, 4th edition
+RRIM METHOD
+Real-time PCR method
+Reference: AOAC 996.06/WHO Global Protocol (Modified)
+Resins Incorporated
+SMEWW
+SMEWW 2120 B, 22nd edition
+SMEWW 22nd
+SMEWW 22nd Ed.
+SMEWW 22nd Ed., 2005
+SMEWW 22nd Edition
+SMEWW 23rd Ed. 9-53 to 957
+SMEWW 23rd Ed. 9-72 to 9-75
+SMEWW 23rd Ed. pp. 9-36,39,68-71,76,80
+SMEWW 23rd Ed., pp. 9-36,39,68,70,71,76,80
+SMEWW 2540 D, 22nd edition
+SMEWW 3030 E & F, then 3111B, 22nd edition
+SMEWW 3030 E, 3030 F, 3111 B
+SMEWW 3112, 22nd edition
+SMEWW 4500 CI- D - APHA
+SMEWW 4500 O C, 22nd edition
+SMEWW 4500- CO2 C
+SMEWW 4500-H B, 22nd edition
+SMEWW 5210 B, 22nd edition
+SMEWW 5220 C, 22nd edition
+SMEWW 5520 B, 17th edition
+SMEWW 9213 F/21st Edition, 2005
+SMEWW 9215 23rd Edition, 2016
+SMEWW 9215 B/21st Edition, 2005
+SMEWW 9215B, 22nd edition, US FDA BAM
+SMEWW 9221 B-C, 22nd edition
+SMEWW 9221 B/21st Edition, 2005
+SMEWW 9221 E, 22nd edition
+SMEWW 9221 E/21st Edition, 2005
+SMEWW Method 3111 B, 23rd edition, 2017
+SMEWW Method 9215B, 22nd edition
+SMEWW, 22nd ed
+SMEWW, 22nd edition
+SMEWW, 22nd edition, Food Chemicals Codex, 5th Ed.; Degremond Water Treatment Handbook
+SMEWW21*/BAM2001**
+SMEWW22*/BAM2001**
+Sample Preparation 1000php
+Sample Preparation 500php
+Solvent Extraction
+Solvent Extraction/Gravimetric (acid Hydrolysis)
+Standard Method of Analysis for Soil, Plant Tissue, Water and Fertilizer, Plippine Council for Agriculture Forestry, and Natural Resources Research and Development. 1991
+Standard Methods for Analysis of Soil, plant tissue water and fertilizer
+Standard Methods for the Examination of Dairy Products
+Standard Methods for the Examination of Dairy Products, US FDA, BAM Online
+Standard Methods for the Examination of Water and Wastewater
+Standard Methods for the Examination of Water and Wastewater (SMEWW) 22nd Edition, 2012 APHA, AWWA, WEF
+Standard Methods for the Examination of Water and Wastewater APHA, AWWA & WEF, 22ndEdition, 2012.part 9221 F
+Standard Methods for the Examination of Water and Wastewater, 21 st ed., 2005 (Centennial Edition), APHA/AWWA/WEF
+Standard Methods for the Examination of Water and Wastewater, 23rd Edition, 2017
+Standard Methods for the Examination of Water and Wastewater, 23rd Edition, 2018
+Standard Methods for the Examination of Water and Wastewater. APHA, AWWA & WEF, 22ndEdition, 2012.part 9215 B
+Standard Methods for the Examination of Water and Wastewater. APHA, AWWA & WEF, 22ndEdition, 2012.part 9221 B
+Standard Methods for the Examination of Water and Wastewater. APHA, AWWA & WEF, 22ndEdition, 2012.part 9221 G
+Standard Methods for the Examination of Water and Wastewater. APHA, AWWA & WEF, 23ndEdition, 2017.part 9221 E
+Standard Methods for the Examination of Water and Wastewater. APHA, AWWA & WEF, 23ndEdition, 2017.part 9230 C
+Standard Methods of Chemical Analysis 6th ed.
+Subcontracted; ISO
+Sucrose/D-Glucose/D-Fructose UV Method (r-biopharm/roche) Test Kit
+TAPPI
+TAPPI Standard Method
+TAPPI Standards 2010
+TIS
+TIS,Compendium
+Tech. Method of Analysis by Griffin
+Technical Manual of AATCC Vol.87,2012
+Technical Methods of Analysis
+Thai Lab Scheme G 20-1/02-08 (E)
+The AGT Cytogenetics Laboratory Manual 3rd Edition,  1997, M.J. Barch, T. Knutsen, and J.L. Spurbeck
+The US Pharmacopeia 30 NF 25, 2007
+Thiex et. At, 2002
+Titration
+Titrimetry
+Titrimetry ASTM 169-92
+Titrimetry(Argentometric)
+Total Solids Dried at 180°C
+Turbidimetry
+Turbidimetry/Gravimetry
+U.S. FDA and A.O. No. 88-B s. 1984
+UL 94
+US EPA
+US EPA (Method 1030), December 1996
+US EPA 7473
+US FDA BAM 2001
+US FDA, BAM Online
+US Pharmacopeia
+USEPA 3050B
+USEPA 3060A
+USEPA 7471A
+USEPA CFR 40, Part 50, Appendix A
+USEPA CFR 40, Part 50, Appendix G
+USEPA CFR 40, Part 50, Appendix J
+USEPA CFR 40,Part 50, Appendix B
+USEPA Compedium/Method IO-3.1
+USEPA Method 10
+USEPA Method 11
+USEPA Method 12
+USEPA Method 13B
+USEPA Method 245.5
+USEPA Method 29
+USEPA Method 3050B
+USEPA Method 5
+USEPA Method 7C
+USEPA Method 8
+USP
+USP 23, [561]
+USP <921> USP 37-NF 32 (2014) (PIPAC AP 022: Karl Fischer)
+USP [401]
+USP [831]
+USP [841]
+UV-Vis
+United Stated Pharmacopeia, British Pharmacopeia, European Pharmacopeia
+United Stated Pharmacopeia, British Pharmacopeia, European Pharmacopeia, Philippine Pharmacopeia, etc.
+United Stated Pharmacopeia, WHO
+United States Pharmacopeia
+United States Pharmacopeia / Philippine Pharmacopeia
+Using Distillation and Titration Method /Kjedahl
+Validated Method from FCC 15th Ed.
+Vernier Caliper Calibration
+Volhard Titration Method
+Volume from specific gravity (AOAC 28.1.04)
+WHO
+WHO 2005
+WHO 2006
+WHO 2009
+WHO Bulletin 2002, 80:410-417, 1993
+WHO Guidelines for mosquito Adulticides
+WHO Selection Methods in Measuring Air Pollutants, 1976, page 73-76
+Water Activity Meter Manual
+World Health Organization
+X-Ray Fluorescent (Non-ISO)
+by computation
+cm-017
+dry ashing, Acid Digestion and Quantitation by Atomic Absorption Spectrophotometer
+for Clostridium botulinum
+for Clostridium perfringens count
+for shelf life
+for soil
+n/a
+na
+noen
+none
+pH Meter Manual
+ph meter based on AOAC official method 20th edition, 2016
+preparation
+probe
+refractometer
+spectrophometric
+subcontracted, in house method
+subcontracted; in house method
+tax
+vat

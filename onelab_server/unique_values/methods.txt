@@ -1,0 +1,1793 @@
+(KU) (Stormer)
+(Vacuum Oven) Gravimetric Method
+(iQ-check) * 5 samples
+-
+1-10 Phenanthroline
+2,6-Dichloroindophenol Titrimetric Method/AOAC 985.33
+2120 B. Visual Comparison
+2130 B
+2510 B
+2540 C. Gravimetric, Dried at 180°C
+2540 D. Gravimetric, Dried at 103-105°C
+2540 F.Imhoff Cone
+2550 B. Laboratory and Field Method
+3030 E. Nitric Acid Digestion/3111 B. Direct Air-Acetylene Flame
+3030 F. Nitric Acid - Hydrochloric Acid Digestion/3111 B. Direct Air-Acetylene Flame
+3500 Cr B. Colorimetric
+4-Aminoanti-pyrene
+4-Aminoantipyrene (Modified Method)
+4500 - Cl B. Argentometric
+4500 - O C. Azide Modification
+4500 -P D. Stannous Chloride
+4500 H+ B. Electrometric
+5-Day BOD Test
+5210 B. 5-Day BOD Test
+5220 B.Open Reflux
+5520 B. Liquid-Liquid Partition - Gravimetric (n-Hexane Extraction)
+5530 C.Chloroform Extraction
+5540 C. Anionic Surfactants as MBAS
+58a-b
+7W-02-01
+7W-02-02
+7W-02-03
+7W-02-04
+7W-02-05
+7W-02-06
+7W-02-07
+7W-02-08
+7W-02-09
+7W-02-10
+7W-02-100
+7W-02-101
+7W-02-102
+7W-02-103
+7W-02-104
+7W-02-105
+7W-02-106
+7W-02-107
+7W-02-108
+7W-02-109
+7W-02-11
+7W-02-110
+7W-02-111
+7W-02-112
+7W-02-113
+7W-02-114
+7W-02-115
+7W-02-116
+7W-02-117
+7W-02-118
+7W-02-119
+7W-02-12
+7W-02-120
+7W-02-121
+7W-02-122
+7W-02-123
+7W-02-124
+7W-02-125
+7W-02-126
+7W-02-127
+7W-02-128
+7W-02-129
+7W-02-13
+7W-02-130
+7W-02-131
+7W-02-132
+7W-02-133
+7W-02-134
+7W-02-135
+7W-02-136
+7W-02-137
+7W-02-138
+7W-02-139
+7W-02-14
+7W-02-140
+7W-02-141
+7W-02-142
+7W-02-143
+7W-02-144
+7W-02-145
+7W-02-146
+7W-02-147
+7W-02-148
+7W-02-149
+7W-02-15
+7W-02-150
+7W-02-151
+7W-02-152
+7W-02-153
+7W-02-17
+7W-02-18
+7W-02-19
+7W-02-20
+7W-02-21
+7W-02-22
+7W-02-23
+7W-02-24
+7W-02-25
+7W-02-27
+7W-02-28
+7W-02-29
+7W-02-30
+7W-02-31
+7W-02-32
+7W-02-33
+7W-02-34
+7W-02-35
+7W-02-36
+7W-02-37
+7W-02-38
+7W-02-39
+7W-02-40
+7W-02-41
+7W-02-42
+7W-02-43
+7W-02-44
+7W-02-45
+7W-02-46
+7W-02-47
+7W-02-48
+7W-02-49
+7W-02-50
+7W-02-51
+7W-02-52
+7W-02-53
+7W-02-54
+7W-02-55
+7W-02-56
+7W-02-57
+7W-02-58
+7W-02-59
+7W-02-60
+7W-02-61
+7W-02-62
+7W-02-63
+7W-02-64
+7W-02-65
+7W-02-66
+7W-02-67
+7W-02-68
+7W-02-69
+7W-02-70
+7W-02-71
+7W-02-72
+7W-02-73
+7W-02-74
+7W-02-75
+7W-02-76
+7W-02-77
+7W-02-78
+7W-02-79
+7W-02-80
+7W-02-81
+7W-02-82
+7W-02-83
+7W-02-84
+7W-02-85
+7W-02-86
+7W-02-87
+7W-02-89
+7W-02-90
+7W-02-91
+7W-02-92
+7W-02-93
+7W-02-94
+7W-02-95
+7W-02-96
+7W-02-98
+7W-02-99
+9221 MULTIPLE-TUBE FERMENTATION TECHNIQUE
+9230B SMEWW MPN
+AA Analyser
+AAS
+AAS (AOAC 985.35 / 968.08)
+AAS (AOAC 985.35)
+AAS (SMEWW 3111B)
+AAS (SMEWW 3112B)
+AAS (SMEWW 3114B)
+AAS (Std addition)
+AAS - ICP - AES (USEPA Method 29)
+AAS / ICP-AES (SMEWW 3111B)
+AAS / ICP-AES (SMEWW 3111B, 3114B)
+AAS / ICP-AES USEPA 6010
+AAS 965.09
+AAS/Flame Emission
+AAS/ICP-OES
+AATCC 128
+AATCC 135
+AATCC 16.3
+AATCC 20
+AATCC 22
+AATCC 79
+AATCC 8
+AES
+AFS / AAS Hydride
+AOAC
+AOAC 19th ed.
+AOAC 2011.14
+AOAC 2018.13 (22nd Ed)
+AOAC 920.39
+AOAC 925.55
+AOAC 925.56
+AOAC 930.35
+AOAC 942.05
+AOAC 950.77
+AOAC 960.29
+AOAC 962.12
+AOAC 968.11
+AOAC 981.10
+AOAC 981.12
+AOAC 984.13 & 971.09
+AOAC 985.16
+AOAC 985.28
+AOAC 985.35 & 965.17
+AOAC 986.33 (22nd Ed)
+AOAC 990.12 (22nd Ed)
+AOAC 997.02
+AOAC Method
+AOAC, 2005, 18th edition 984.14 Head-Space GC-FID & Shimadzu Application News No. AD-0107 & AD-0108
+AOAc 991.14 (22nd ed)
+AOCA CC6-25
+AOCS Cd 21-91
+AOCS, Ca 5a-40
+AOCS, Cc 13e-92
+AOCS, Cd 1-25
+AOCS, Cd 3-25
+AOCS, Cd 8-53
+AOCS, Ce 1a-13
+APHA 2510 A & B
+APHA 4500- F C
+APHA/SMEWW 21st edition
+API 20e
+ASEAN Harmonized Method
+ASEAN Harmonized Methods for Cosmetics
+ASME IX
+ASTM
+ASTM 1762 (modified)
+ASTM 4870/ IP 375/390
+ASTM A53
+ASTM C 873-04
+ASTM C110
+ASTM C114
+ASTM C140-12
+ASTM C165
+ASTM C203
+ASTM C25
+ASTM C303
+ASTM C471
+ASTM C610 sec 11.1.7
+ASTM D 1094
+ASTM D 1230
+ASTM D 1294
+ASTM D 1298; D 4052
+ASTM D 130
+ASTM D 1319
+ASTM D 1322
+ASTM D 1353
+ASTM D 1363
+ASTM D 1405
+ASTM D 1500
+ASTM D 156
+ASTM D 156 / D 6045
+ASTM D 1577
+ASTM D 1613
+ASTM D 1613/ IP 538
+ASTM D 1613M
+ASTM D 1688
+ASTM D 1722
+ASTM D 1762
+ASTM D 1796
+ASTM D 1840
+ASTM D 187 / IP 10
+ASTM D 189
+ASTM D 2216-92
+ASTM D 2256
+ASTM D 2257
+ASTM D 2261
+ASTM D 2270
+ASTM D 2274
+ASTM D 2386
+ASTM D 240
+ASTM D 240 / IP 12
+ASTM D 2495
+ASTM D 2500
+ASTM D 2624
+ASTM D 2699
+ASTM D 2699 & D 2700 Average
+ASTM D 2700
+ASTM D 2709
+ASTM D 2896
+ASTM D 3125
+ASTM D 3173-73
+ASTM D 3173-77
+ASTM D 3173-82
+ASTM D 3227
+ASTM D 3228
+ASTM D 323
+ASTM D 3237/ IP 428
+ASTM D 3241
+ASTM D 3242
+ASTM D 3242 / IP 354
+ASTM D 3338
+ASTM D 3343
+ASTM D 3605
+ASTM D 3786/ASTM D 3786M
+ASTM D 381 / IP 540
+ASTM D 3822
+ASTM D 3828
+ASTM D 3831
+ASTM D 3882
+ASTM D 3884
+ASTM D 3885
+ASTM D 3937
+ASTM D 3948
+ASTM D 4006
+ASTM D 4007
+ASTM D 4055
+ASTM D 4059
+ASTM D 4294
+ASTM D 4294/ IP 336
+ASTM D 445
+ASTM D 4491
+ASTM D 4530
+ASTM D 4533
+ASTM D 4595
+ASTM D 4632
+ASTM D 473
+ASTM D 4740
+ASTM D 4751
+ASTM D 482
+ASTM D 4868
+ASTM D 4870 / IP 375
+ASTM D 4898
+ASTM D 4952 / IP 30
+ASTM D 5006
+ASTM D 5034
+ASTM D 5035
+ASTM D 512
+ASTM D 5184
+ASTM D 5184/ IP 377
+ASTM D 5184/ IP 377 / IP 470
+ASTM D 5191
+ASTM D 5199
+ASTM D 525
+ASTM D 5261
+ASTM D 5443
+ASTM D 5452/ D 6217
+ASTM D 5453
+ASTM D 5501
+ASTM D 5587
+ASTM D 56
+ASTM D 5733
+ASTM D 5735
+ASTM D 5845
+ASTM D 5845 MID-IR
+ASTM D 5863
+ASTM D 5863/ IP 470
+ASTM D 5867
+ASTM D 6241; ISO 12236
+ASTM D 6242
+ASTM D 6277
+ASTM D 6277/ASTM D 4053
+ASTM D 6304
+ASTM D 6413
+ASTM D 6423
+ASTM D 6560
+ASTM D 6560 / IP 143
+ASTM D 6595
+ASTM D 664
+ASTM D 664 / 2896
+ASTM D 664/ IP 177
+ASTM D 6839
+ASTM D 7179
+ASTM D 7279
+ASTM D 737
+ASTM D 7687
+ASTM D 7688
+ASTM D 86
+ASTM D 873
+ASTM D 874
+ASTM D 892
+ASTM D 893
+ASTM D 92
+ASTM D 93
+ASTM D 95
+ASTM D 97
+ASTM D 974
+ASTM D 974/ D 664
+ASTM D 976 / D 4737
+ASTM D1002
+ASTM D1004
+ASTM D1004 (add'l fee)
+ASTM D1895
+ASTM D2022
+ASTM D2241
+ASTM D2261
+ASTM D2412
+ASTM D3775
+ASTM D3786
+ASTM D395
+ASTM D4060
+ASTM D412
+ASTM D5034
+ASTM D5035
+ASTM D543
+ASTM D56
+ASTM D570
+ASTM D573
+ASTM D624
+ASTM D638
+ASTM D638/D882
+ASTM D638/D882 (add'l fee)
+ASTM D6413/6413M
+ASTM D648
+ASTM D695
+ASTM D790
+ASTM D792
+ASTM D882
+ASTM D891
+ASTM D903
+ASTM D92
+ASTM D93
+ASTM E 1064
+ASTM E 203
+ASTM E 2412
+ASTM E 70
+ASTM E534
+ASTM E70
+ASTMD2240 ISO 868 vol.1
+ASTS
+ATP Bioluminescence
+AWS D1-1
+Absorption
+Crazing
+Surface Examination
+Warpage
+Thickness
+Integral Trap Diameter
+Interior Width
+Interior Height
+Interior Depth
+Projection
+Wall-Mounted Load Test
+Water Consumption
+Trap Seal Depth
+Surface Wash Test (Ink Test)
+Dye Test
+Markings
+Absorption
+Crazing
+Surface Examination
+Warpage
+Thickness
+Trap Diameter
+Water Surface Area
+Spud Diameter
+Rim Height
+Wall Mounted Load Test
+Water Consumption
+Trap Seal Depth
+Granule and Ball Test
+Surface Wash (Ink Test)
+Mixed Media Test
+Overflow Test
+Marking
+Absorption
+Crazing
+Surface Examination
+Warpage
+Thickness
+Trap Seal Depth
+Acid Digestion
+Acid Digestion/1:1 Nitric Acid
+Acid Digestion/Aqua Regia
+Acid Digestion/Aqua Regia with MIBK
+Acid Hydrolysis
+Acid digestion/Aqua Regia/3N HCI
+Acid hydrolysis/Gravimetric Method
+Activity calibration
+Addt'l fee for extraction
+Agglutination
+Air / Vacuum Oven
+Air Kerma Calibration
+Air Leak Test
+Markings Identification Test
+Air Oven
+Air Oven Method
+Air Oven Method (AOAC 930.15 / 934.01)
+Air Oven Method (AOAC 952.08 / 950.46B / 925.10 / 990.02)
+Air Oven and Steam Bath
+Air-Oven Drying
+Air-Oven Drying (100C)
+Alkali Titration
+Alkaline-Permanaganate
+Alkalinity Relationships (By Computation)/Standard Method 2320 B
+Alpha 4500 P
+Ammonium Persulfate/UV-Vis
+Ankom Fiber Analyzer (AOAC 930.15 / 934.01)
+Appearance
+Color
+Outside Diameter
+Out of Roundedness
+Wall Thickness
+Impact Resistance
+Vicat Softening Temperature
+Longitudinal Reversion
+Markings
+Appearance
+Color
+Outside Diameter
+Out of Roundedness
+Wall Thickness
+Impact Strength
+Vicat Softening Temperature*
+Longitudinal Reversion
+Markings
+Appearance / Color
+Outside Diameter
+Out-of-roundedness / Ovality
+Wall Thickness
+Impact Resistance – Round the Clock Method
+Tensile Strength
+Longitudinal Reversion
+Vicat Softening Temperature*
+Resistance to Acetone
+Marking
+Appearance / Color
+Outside Diameter
+Wall Thickness
+Heat Reversion
+Water Absorption
+Tensile Strength / Elongation at Break
+Vicat Softening Temperature*
+Resistance to Acetone
+Resistance to Burning
+Resistance to External Blows
+Flattening
+Markings
+Appearance / Color
+Outside Diameter
+Wall Thickness
+Longitudinal Reversion
+Water Absorption
+Resistance to Acetone
+Resistance to Sulfuric Acid
+Resistance to External Blows
+Vicat Softening Temperature*
+Flattening
+Markings
+Appearance / Color
+Outside Diameter
+Wall Thickness
+Ovality
+Elongation
+Markings
+Aqua Regia/Fire Assay
+Aqua Regina/Aqua Regia w/ MIBK
+Argentometric Method
+Argentometric Method/Standard Method 4500-Cl- B
+Argentometric Titration
+Argentometry
+Arm in Cage Method
+Ascorbic Acid
+Assembly and inspection
+Stability — Test
+Footholds
+Measurements
+Small parts (Torque test/Tension test)
+Tests for cot base and mattress base
+Strength of sides and ends
+Strength of frame and fastenings
+Snag points
+Locking mechanisms
+Stability test
+Markings Identification Test
+Atomic Absorption Spectrophotometric Method
+Atomic Absorption Spectrophotometric Method with Microwave Digestion/AOAC 999.10
+Atomic Absorption Spectrophotometric Method with Microwave Digestion/AOAC 999.10 and AOAC 975.03
+Atomic Absorption Spectrophotometric Method with Microwave Digestion/AOAC 999.10 and AOAC 983.04
+Atomic Absorption Spectrophotometric Method/AOAC 985.35 with Microwave Digestion/AOAC 999.10
+Atomic Absorption Spectrophotometry
+Atomic Absorption Spectrophotometry (Triplicate)
+Atomic Absorption Spectrophotometry AOAC Method 999.10 (Modified)
+Atomic Absorption Spectroscopy
+Automatic Kjeldahl Method using Buchi Analyzer
+Automatic Kjeldahl Method using Buchi Analyzer (Triplicate)
+Azide Modification
+Azide Modification Dilution
+Azide Modification(Dillution Technique)
+Azide Modification/Standard Method 4500-O C
+B.Eriochrome Cyanine R. Method
+BAM Method
+BC
+Barium Thorin-Titrimetry
+Barium-Thorin Titration
+Bend   Rebend Markings
+Biochemical Test
+Biochemical Test/ Multiple Tube (c/o MCFR)8/25/2017
+Biochemical Testing
+Block digestion
+Bomb Calorimetry
+Breaking Strength
+Yield Strength
+Elongation
+British Handbook No. 11
+Brookfield
+Brookfield DV-II + Pro Viscometer
+Brookfield Viscometer
+Bruccine Method
+Brucine Sulfate
+By Calculation
+By Computation
+By Computation, The Philippine Composition Tables (FNRI)
+By Computation, The Philippine Composition Tables (FNRI), 1997
+By Computation/PS No. 241-TM.01:1977
+By Difference
+By Difference/AOAC 986.25 E
+By Volume from Refraction - Rapid Method/AOAC 920.58
+By computation from proximate analyses
+By computation/difference
+C-Banding (CBG)
+CAL-CM-011
+CAL-CM-012
+CISPR 11
+CISPR 13
+CISPR 14-1
+CISPR 15
+CISPR 22 (1GHz to 6 GHz)
+CISPR 22 / FCC Part 15 Subpart B & C (30 to 1000 MHz)
+CISPR14-2
+CM-013
+CM-013 (Additional setting)
+CM-M-001
+CM-M-003
+CM-M-004
+CM-M-008
+CM-M-009
+CM-M-010
+CV-AFS
+Cadmium Sulfide
+Cadmium Sulfide (Modified Method)
+Cage/Cone Test Method
+Calculation
+Cannon-Fenske
+Capillary Tube
+Carmine
+Carmine Method
+Chemical Analysis (% C, % Si, % S, % Mo)  
+Tensile Strength & Yield
+Hardness Test
+Chemical Analysis-Base metal (%C / %Mn / %P / %S)
+Tensile Strength Test (MPa)
+Dimension Test (Width and Length, mm)
+Coating Thickness, Alum. /Zinc-coated (Triple-Spot)
+Mass of Coating, Alum. /Zinc-coated (Triple-Spot Test)
+Bend Test (coating)
+Hardness Test
+Marking/labeling requirements
+Sample Preparation (Cutting, Triple Spot, Coating, etc.)
+Chemical Analysis-Base metal (%C / %Mn / %P / %S)
+Tensile Strength Test (MPa)
+Nominal Thickness, mm (Total Coated Thickness Test)
+Width and Length, mm
+Shape and Dimension, mm (Pitch & Depth) 
+Hardness Test
+Mass of Zinc Coating (Triple Spot method)
+Marking/labeling requirements
+Sample Preparation (Cutting, Triple Spot, Coating, etc.)
+Chemical Analysis-base metal (%C /%S/%Mn / %P)
+Tensile Test
+Bend Test
+Coated Thickness, in mm 
+Width and Length, if applicable 
+Pitch & Depth, If applicable
+Mass of Zinc Coating (Triple Spot)
+Coating Thickness (Stripping Method)
+Chemical Analysis-base metal (%C/%S/ %Mn/%P)
+Tensile Test
+Bend Test
+Hardness Test
+Cross Scoring
+Dry Film Thickness
+Pencil Hardness
+Impact Test
+Coated Thickness, in mm 
+Width and Length, if applicable 
+Pitch & Depth, If applicable
+Chemical Analysis-base metal (%C/%S/%Mn/%P)
+Tensile Test
+Bend Test
+Hardness Test
+Cross Scoring
+Dry Film Thickness
+Pencil Hardness
+Impact Test
+Coated Thickness, in mm 
+Width and Length, if applicable 
+Pitch & Depth, If applicable
+Mass of Zinc Coating (Triple Spot)
+Chemical Composition (% C, % Fe, % Mn, % P, % S)
+Physical Properties (Density)
+Hardness, HRB
+Tensile Strength, Ultimate, Yield, Elongation
+Chemical Composition Tensile Test Slip Test
+Chemical Composition Tensile Test Zinc Coating
+Chemical Requirements
+Tensile Requirements
+Chemical Test
+Chemical Test (% C, % Mn, % P, % S, %Si, % Cu)
+Tensile Requirements
+Chemical Test (%C / %S / %Mn / %Si / %P)
+Mechanical Test (Tensile Test) 
+Mechanical Test (Bend Test) 
+Visual/Appearance Test
+Dimension Test (Angle of nail point)
+Dimension Test (Diameter of the head)
+Dimension Test (Length of Nail)
+Dimension Test (Total Length)
+Dimension Test (Diameter of the Shank)
+Chlorine Test Kit
+Chloroform Extraction
+Chloroform Extraction (SMEWW 5530C)
+Chloroform Extraction Method
+Chromogenic Plates (Rapid Test)
+Chromogenic substrate test (Colilert)
+Chromotrophic
+Chromotropic Acid
+Chromotropic Acid (Modified Method)
+Citrate Test (IMViC)
+Close Reflux Method
+Closed Reflux/Titrimetry
+Cold Vapor
+Cold Vapor AAS
+Cold Vapor AAS (SMEWW 3112B)
+Cold Vapor Atomic Absorption Spectrophotometry
+Cold Vapor-AAS
+Colilert
+Color Comparison
+Color Index Test
+Color reaction/Precipitation
+Colorimetric
+Colorimetric (Iodine)
+Colorimetric (Rhodanate)
+Colorimetric Method
+Colorimetric, Brucine (US EPA 352.1)
+Colorimetric-Ascorbic
+Colorimetric/Diphenycarbazide
+Colorimetry
+Colorimetry (AOCS)
+Combustion
+Combustion (add'l Analyte)
+Combustion (add'l analyte)
+Combustion Method
+Comparison
+Comparison (2 probes)
+Compendium of Methods for Methods for the Microbiological Examination of Foods, 4th ed.
+Computation
+Conductivity Meter
+Cone Test Method
+Conventional
+Conventional MPN
+Conventional Method
+Conventional Plate Count
+Conventional and Rapid
+Conventional and Rapid (FDA-Phils)
+Conventional/API20e
+Conventional/Selective Enrichment Method
+Core & Parrafin Clod
+Crackle Test
+Cross-cut tape test
+Culture Method: Ribonucleotide Reductase Inhibition
+Culture and Harvest: 24-Hour Unstimulated Lymphocyte Culture, Banding and Analysis: G-Banding
+Culture and Harvest: Direct and/or Short Term for Unsynchronized Cultures, 24-Hour Synchronized Culture with Fdu, Ur and BrdU, Banding and Analysis: G-Banding
+Culture and Harvest: Fibroblast Culture and Abortus Studies, Banding and Analysis: G-Banding
+Culture and Harvest: Prometaphase Chromosome Preparation Using Synchronization and Ethidium Bromide, Banding and Analysis: G-Banding
+Culture and Harvest: Synchronization of Peripheral Lymphocytes for Prometaphase Chromosome using Thymidine, Banding and Analysis: G-Banding
+Cut Middles Method
+Cyanmethemoglobin
+Cylinder Test Method
+DPD Colometric
+Das Gupta’s Method
+Density cup method
+Dew Point
+Dew point by chilled mirror hygrometer
+Diazotization Colorimetric Method
+Dicentric assay
+Dichromate Oxidation (Titration) Method/AOAC 969.12
+Dichromate-Open Reflux
+Dimensions
+Blemish Test
+Light Transmittance Test (optional)
+Dimensions
+Distortion Test
+Blemish Test
+Light Transmittance Test
+Dimensions
+Surface Appearance
+Moisture Content
+Density
+Tension Strength
+Compression Strength
+Panel Shear Strength
+Planar Shear Strength
+Bonding Quality (Class 1)
+Bonding Quality (Class 2 or 3)
+Formaldehyde Emission
+Dimensions Test
+Chemical Test (% C, % Mn, % P, % S, %Si)
+Mechanical Properties (Tensile Properties)
+Dimensions Test
+Chemical Test (%C, Mn, S, Si, P, Nb, Cr, Ni, N)
+Mechanical Requirements (Hardness Test)
+Workmanship, Finish, and Appearance
+Product Marking
+Diphenycarbazide
+Diphenylcarbazide
+Diphenylcarbazide Colorimetric Method
+Direct Air-Acetylene Flame AAS
+Direct Air-Acetylene Flame Method (Acid Digestion)/Standard Method 3111 B
+Direct Air-Acetylene Flame Method (Direct Aspiration)/Standard Method 3111 B
+Direct Ashing
+Direct Aspiration
+Direct Comparison
+Direct Comparison using double substitution weighing based on (OIML R111-1)
+Direct Extraction
+Direct Flame Atomic Absorption Spectrophotometric Method After Microwave Digestion
+Direct Furnace (AOAC 942.05)
+Direct Measurement
+Direct Method
+Direct Method Furnace (AOAC 923.03 / 938.08 / 990.02)
+Direct Nitrous Oxide-Acetylene Flame AAS
+Direct Readout, Novasina Electrolytic Humidity Measuring
+Direct Titration
+Direct ether extraction
+Direct flame atomic Absorption
+Disc Diffusion Method
+Distillation
+Distillation / Titration
+Distillation / Titrimetric Method
+Distillation/Titrimetric
+Double Substitution
+Drop Test Pressure Test Markings, Labelling and Packaging Identification Test
+Dry Ashing
+Dry Ashing-AAS
+Dry Rehydratable Film (Petrifilm)
+Dry Rehydratable Film (Petrifilm) Method
+Dry Rehydratable Film Method
+Dry Rehydratable Film/Petrifilm
+Dumas Combustion
+EDTA Titration
+EDTA Titrimetric
+EDTA Titrimetric Method/Standard Method 2340 C
+EDTA Titrimetry
+EDTA-By Difference
+EDXRF Analysis Quantitative (multielemen)
+EDXRF Analysis Quantitative (multielemen) (per additional 100secs counting)
+EDXRF Analysis Quantitative (multielemen) per succeeding sample (max 10 in a batch)
+EDXRF Analysis with secondary target (Qualitative)
+EDXRF Analysis with secondary target (Qualitative) per add'l 100 secs coounting
+EDXRF Analysis with secondary target (Qualitative) per succeeding sample (max 10 in a batch)
+ELISA
+ELISA (Semi Quantitative)
+ELISA Screening
+EN 14105
+EURAMET CG18 NAWI
+Ebeling Method
+Ecometry Technique (Relative Growth Index (RGI)
+Effective Dose / Potency Test
+Electrical Conductivity Meter
+Electrical Conductivity Method
+Electrical Conductivity Method/Standard Method 2520 B
+Electrical Simulation
+Electrochemica Sensors
+Electrochemical Sensor
+Electrometric
+Electrometric Method
+Electrometric Method/Standard Method 4500-H+
+Electrometric method
+Electromtery (SMEWW 4500HB)
+Electrothermal AAS
+Elemental Analysis of Liquid Samples Dried on Filters (1st sanple (per batch of 10) succeeding sample (1st sample (per batch of 10))
+Elemental Analysis of Liquid Samples Dried on Filters (succeeding sample (per batch of 10))
+Elongation
+Chemical Composition
+Enzymatic
+Enzymatic Gravimetric
+Enzymatic Gravimetric (AOAC 985.29)
+Enzymatic Gravimetry
+Enzymatic, Gravimetric Method
+Enzymatic-Gravimetric Method
+Enzyme Substrate
+Eriochrome Cyanide R
+Ether extraction (AOAC 920.39C) Acid Hydrolysis (AOAC 922.06 / 948.15)
+Ether extraction (AOAC 920.85 / 920.39C)
+Evaluation of TR
+Extended Analysis and/or Cell Count
+FCC Part 15 Subpart B & C (1GHz to 18 GHz )
+FDA BAM 8th ed.
+FDA BAM 8th ed./ Compendium of Methods for Methods for the Microbiological Examination of Foods, 4th ed.
+FDA BAM 8th ed./ Oxoid Manual 1998, 8th ed.
+FTIR
+FTIR - material identification
+Fat Extration + Titration
+Fat extraction+Titration
+Feed Additive
+Fibertec (Fritted Glass Crucible Method)
+Filter Paper Disk Method
+Fire Assay
+Flame AAS
+Flame AAS (Std Addition)
+Flame AAS (add'l)
+Flame AAS/Acid Digestion Mixed Acid
+Flame AAS/Acid Digestion with HF/HNO3
+Flame AAS/Acid Digestion-3 Acid
+Flame AAS/Acid Digestion-Aqua Regia
+Flame AAS/ICP-OES
+Flame AAS/ICP-OES Acid Digestion-Aqua Regia
+Flame AAS/ICP-OES High Volume
+Flame Photometer
+Flame-Atomic Absorption Spectrophotometry
+Flame-Atomic Absorption Spectrophotometry with Microwave Digestion
+Fluorescence in situ hybridization (FISH) for Microdeletion Probe
+Fluorometric Method
+Fluorometry
+Fluorometry (AOAC 977.13)
+Food analysis 2nd ed.
+For roasted coffee: Direct Diethyl Ether Extraction
+For roasted tea: Direct Diethyl Ether Extraction
+Freezer Mill (per sample)
+Fritted Glass Crucible
+Furnace
+Furnace-low temperature ashing
+GAFTA Analysis Method
+GC (AOAC 969, AOCS Ce-lc-89)
+GC (AOAC 994.10)
+GC (SMEWW 6431B)
+GC - ECD (AOAC 983.21)
+GC - ECD (AOAC 983.21, 970.52)
+GC - In house method
+GC FID
+GC-ECD
+GC-ECD; GC-MS
+GC-FID / HPLC
+GC-MS
+GCMS
+GF-AAS
+Gamma Irradiation
+Gamma Spectrometry (per add'l RN w/ same calibration)
+Gamma Spectrometry (per add'l hr counting)
+Gamma Spectrometry (per sample/hr counting)
+Gamma or EB Radiation
+Gas Chromatography
+Gas Chromatography (add'l Analyte)
+Gas Chromatography Mass Spectrometry
+Gas Chromatography, FID
+Gas Chromatography-FID
+Gas Chromatography-Mass Spectrometric Detection
+Glass Cylinder Method
+Glass Electrode
+Glazed Surfaces/Surface Finish
+Marking and Labelling
+Water Absorption
+Crazing
+Thickness Test
+Glazed Surfaces/Surface Finish
+Marking and Labelling
+Water Absorption
+Crazing
+Thickness Test
+Ink Test
+Dye Test
+Total Flush Volume and Cycle Time
+Wall-Mounted Load Test
+Glazed Surfaces/Surface Finish
+Marking and Labelling
+Water Absorption
+Crazing
+Thickness Test
+Wall-Mounted Load Test
+Overflow Test
+Glazed Surfaces/Surface Finish
+Marking and Labelling
+Water Absorption
+Crazing
+Thickness Test
+Water Surface Area
+Ball Test
+Granules Test
+Ink Test
+Dye Test
+Total Flush Volume and Cycle Time
+Seal Depth Restoration
+Water Rise
+Rim Top and Seat Foul Test
+Gloss Meter
+Graphite Furnace-Atomic Absorption Spectrophotometry
+Gravimetric
+Gravimetric (550C)
+Gravimetric (By Calculation)
+Gravimetric (By Petroluem Ether Extraction)
+Gravimetric (Furnace @ 525°C) Method/AOAC 920.93 A and AOAC 900.02 B
+Gravimetric (Furnace @ 525°C)/AOAC 900.02
+Gravimetric (Furnace @ 550°C) Methods/AOAC 941.12
+Gravimetric (Furnace @ 600°C) Method/AOAC 972.15
+Gravimetric (Modified Method)
+Gravimetric (Oven Method) @ 105°C
+Gravimetric Computation based on SO2 / Distillation / Titrimetric Method
+Gravimetric Method
+Gravimetric Method (Air Oven Drying @ 100°C After Steam Table Predry)/AOAC 990.19
+Gravimetric Method (Air Oven Drying @ 100°C)/AOAC 931.04
+Gravimetric Method (Air Oven Drying @ 100°C)/AOAC 950.01
+Gravimetric Method (Air Oven Drying @ 135°C)/AOAC 930.15
+Gravimetric Method (Air Oven Drying)
+Gravimetric Method (Air-Oven Drying @ 60°C for E. Spinosum and 85°C for E. Cottonii)/PNS/BAFPS 85:2010 ANNEX A
+Gravimetric Method (Furnace @ 525°C)/AOAC 940.26
+Gravimetric Method (Furnace @ 550±25°C)
+Gravimetric Method (Furnace @ 600°C)/AOAC 930.05
+Gravimetric Method (Furnace @ 600°C)/AOAC 942.05
+Gravimetric Method (Vacuum Oven Drying @ 100°C)/AOAC 925.10
+Gravimetric Method CAR
+Gravimetric Method/RCI Standard Procedure
+Gravimetric Method/Vacuum Oven Drying @ 70°C/AOAC 920.151
+Gravimetric Method/Vacuum Oven Drying @ 70°C/AOAC 934.06
+Gravimetric/Furnace
+Gravimetric/oven method
+Gravimetry
+Gravimetry (SMEWW 2540C)
+Gravimetry (SMEWW 2540D)
+Griess Saltzman
+Griess Saltzman (Colorimetric)
+Griess-Saltzmann Reaction
+Gross radioactivity analysis
+Guevarra 2005
+Guevarra 2005 (per 100g)
+H-001
+HPLC
+HPLC (AOAC 979.08)
+HPLC In-House Validated Method
+HPLC In-house Method
+HPLC UV
+HPLC, LCMS, LCMS/MS Validated In-house Bioanalytical Method
+HPLC, UV-Vis
+HPLC-DAD
+HPLC-UV
+HPTLC - In-house Validated Method
+HS Gas Chromatographic Method - Flame Ionization Detector
+Handwash / Gravimetric Method
+Hanus Method
+Hanus Method/AOAC 920.158
+Heated-Persulfate Oxidation Colorimetric Method
+Heating in oil bath
+Hegman scale
+High Performance Liquid Chromatography
+High Volume
+Hydride Generation AAS
+Hydride Generation AAS/High Volume
+Hydride Generation AAS/ICP-OES
+Hydride-Generation
+Hydrolysis and Solvent Extraction
+Hydrometer
+Hydrostatic Test
+
+Markings Identification Test
+IC
+ICP
+ICP-OES
+ICP-OES   (by computation)
+ICP-OES (Modified Method)
+ICP/MS
+IMPCA 002
+IMPCA 003
+IMViC/Petrifilm
+IP 170
+IP 470
+IP 570
+IPC-A-610
+ISO 105-BO4
+ISO 105-CO6
+ISO 105-EO1
+ISO 105-EO4
+ISO 105-X12
+ISO 11290-1:2017 (Conventional Method)
+ISO 1167
+ISO 11885:2007
+ISO 12192:2002(E)
+ISO 124:2014
+ISO 125:2011 (E)
+ISO 126:2005 (E)
+ISO 127:2012
+ISO 13821:2002(E)
+ISO 13934-1
+ISO 13934-2
+ISO 13934-4
+ISO 139434-1
+ISO 1652:2011
+ISO 1656:2014
+ISO 1833; 5088
+ISO 188 (adapted)
+ISO 1924
+ISO 1974
+ISO 1974:1990(E)
+ISO 2005:2014
+ISO 2007:2018
+ISO 21872-1:2017 (Conventional Method)
+ISO 21872-1:2017 (Conventional Method) * 5 samples
+ISO 21872-1:2017*(Real-time PCR Method)
+ISO 21872-1:2017*(Real-time PCR Method) * 5 samples
+ISO 247-1:2018
+ISO 2470:1999(E)
+ISO 2471:1998(E)
+ISO 248:2011
+ISO 249:2016
+ISO 2505
+ISO 2507
+ISO 2508
+ISO 2758:2001(E)
+ISO 2759:2001(E)
+ISO 289-1:2015
+ISO 2960
+ISO 3035:1982(E)
+ISO 3127
+ISO 3472
+ISO 3473
+ISO 35:2004 (E)
+ISO 4406
+ISO 4660:2011
+ISO 4833:2003
+ISO 506: 1992(E)
+ISO 534:1988(E)
+ISO 534:1988(E) & ISO 536:1995(E)
+ISO 535:1991(E)
+ISO 536:1995(E)
+ISO 5626:1993(E)
+ISO 5627:1995(E)
+ISO 6330
+ISO 706:2004
+ISO 7173:1989
+ISO 7263:1994(E)
+ISO 7438
+ISO 9073-1
+ISO 9073-4
+ISO 9237
+ISO 976:2013
+ISO 9867
+ISO Standard
+IWS TM 169
+Ignition
+Ignition  - Gravimetry
+Imhoff Cone
+Imhoff Cone (SMEWW 2540F)
+Immersion
+Immuno Radiometric Assay
+In-house Method
+In-house Method (APIL-FOOD-E001)
+In-house Method (APIL-FOOD-S002)
+In-house Method (APIL-FOOD-S004)
+In-house Surface Plasmon Resonance / Optical Biosensor
+In-house developed (HPLC)
+Incubation Method/Standard Method 5210 B
+Indirect Acid Hydrolysis
+Indirect Soxhlet/Acid Hydrolysis (automated Acid Hydrolysis and Diethyl Extraction)
+Individual monitoring for external exposure
+Indole
+Indophenol
+Inductively Coupled Plasma - OES
+Inductively Coupled Plasma Spectrometry
+Iodemetric-Azide Modification
+Iodometric
+Iodometric Method I/Standard Method 4500-Cl B
+Iodometric Titration
+Ion Chromatography
+Ion Selective
+JETRO 2009
+JETRO 2011
+JIS B 7502:1994
+JIS B 7507:1993
+JISM 5584
+Jones reductor method
+KF Titrator, HPLC, UV-Vis
+KOH (Aquaculture Feed Microscopy Manual)
+Karl Fischer
+Karl Fischer Titrimetry (oil sample)
+Kjeldahl
+Kjeldahl (AOAC 2001.1 / 984.13)
+Kjeldahl (AOAC 978.03) Titrimetry (920.03 / 920.05 / 892.01)
+Kjeldahl (In-house)
+Kjeldahl Digestion and Distillation
+Kjeldahl Method
+Kjeldahl Method (Block Digestion and Steam Distillation)/AOAC 2001.11
+Kjeldahl Semi-Micro Method (Block Digestion and Steam Distillation)
+Kjeldahl Titration
+Kjeldahl, AOAC 2001.11 / 984.13
+Kjeltec Auto Analyzer
+LCMSMS
+LFOD-TST-SOP-8436
+LFOD-TST-SOP-8444
+LSC (direct) no spl prep (1st sample/RN/hr)
+LSC (direct) no spl prep (per add'l RN)
+LSC (direct) no spl prep (per add'l hour counting)
+LSC (direct) no spl prep (per succeeding sample *max 5 per batch*)
+Laboratory Method
+Laboratory Method/Standard Method 2510 B
+Lane Eynon
+Lane Eynon/Munso and Walker
+Lane and Eynon
+Lane-Eynon
+Lane-Eynon Constant Volume Volumetric Method/AOAC 930.36
+Lane-Eynon Constant Volume Volumetric Method/AOAC 968.28
+Lane-Eyon Constant Volume Titrameteric
+Laye Eynon, AOAC 968.28
+Liquid Scintillation Counting (1st sample)
+Liquid Scintillation Counting (per add'l hour counting >3 hours)
+Liquid Scintillation Counting (per sample)
+Liquid Scintillation Counting (per succeeding sample *max 5 per batch*)
+Liquid scintillation counting of acetic acid isolated from vinegar (includes isolation cost) LSC (instrument use only) *1st hour*
+Liquid scintillation counting of acetic acid isolated from vinegar (includes isolation cost) LSC (instrument use only) *per hour, succeeding hours*
+Liquid scintillation counting of acetic acid isolated from vinegar (includes isolation cost) LSC (instrument use only) *per sample for a batch of 3*
+Liquid scintillation counting of acetic acid isolated from vinegar (includes isolation cost) LSC (instrument use only) *single sample*
+Liquid-Liquid, Partition-Gravimetric Method/Standard Methd 5520 B
+Loff - Schoorl Method / Titration
+Lovibond Method
+Luff-Schoorl, Lane Eynon
+MID IR SPECTRO
+MML-NTP
+MP-AES
+MPN
+MPN (FDA-Phils)
+MPN Method
+MPN method
+MS 1449:PART 1:1999
+MS 1449:PART 4:1999
+MS 1449:PART 5:1999
+MS 1449:PART 6:1999
+MS 1449:PART3:1999
+MS 281 PART 17:2007
+MS 281 PART 18:2007
+MTFT
+MTFT (SMEWW)/Pour Plate Method (SMEWW)/MTFT (SMEWW)
+Machining Preparations (Cutting/Griding/Planing)
+Deformation (Phy. var.-Lugs Ave, spacing/Tol/Gaps) 
+Dimension & Mass Variation
+Mechanical Test (Tensile Strength/Yield/Elongation) 
+Bend Test
+Marking
+Machining Preparations (Cutting/Griding/Planing)
+Dimension & Variation in mass (Thickness/Leg length)
+Physical Test (Camber / Out of Square test)
+Mechanical Test (Tensile Strength/Yield/Elongation) * 
+Bending Test
+Chemical Test (%C/%S/%Mn/%Si /%P)
+Machining Preparations (Cutting/Griding/Planning)
+Deformation (Phy. var.-Lugs Ave, spacing/Tol/Gaps) 
+Dimension & Mass Variation
+Mechanical Test (Tensile Strength/Yield/Elongation) 
+Bend Test
+Chemical Test (%C / %S / %Mn / %Si / %P)
+Macro-Kjeldahl Method/Standard Method 4500-Norg B
+Markings
+Thickness
+Length and Width
+Straightness
+Rectangularity
+Surface Flatness
+Surface Quality
+Water Absorption
+Modulus of Rupture / Breaking Strength
+Resistance to Deep Abrasion (Floor UGL)
+Resistance to Surface Abrasion (Floor GL)
+Resistance to Crazing 
+Resistance to Staining (GL)
+Resistance to Low Concentration of Acids & Alkalis
+Resistance to Household Cleaners
+Resistance to Swimming Pool Salts
+Mass of zinc                       Chemical Test Tensile Strength Yield Strength Elongation
+Mechanical Test-Tensile Strength Test
+Mechanical Test-Torsion Test
+Mechanical Test- Winding Test
+Physical Test-Coil Weight Test
+Physical Appearance Test
+Dimension-Wire Diameter Test
+Chemical Test-Mass of Zinc Coating
+Membrane Filter / Enrichment
+Membrane Filter Technique
+Membrane Filtration
+Mercury Filled Thermometer
+Merge Orange
+Method 12
+Method 26
+Method 29
+Method 5
+Method 6
+Method 7
+Method 8
+Method 9080
+Methyl Orange
+Methylene Blue
+Micro hammer Cutter Mill (per sample)
+Micro weighing (per sample)
+Micro weighing (per succeeding sample *max of 10 in a batch*)
+Micro-Bailey Andrew
+Microbiological
+Micrometer Calibration
+Microscopical method
+Microwave Digestion-ICP-OES (In-house)
+Minolta Chromameter
+Modified Fritted Glass Crucible
+Moisture Determination thru Moisture Analyzer
+Mojonnier Extraction
+Mojonnier Extraction (with acid hydrolysis)
+Molybdosilicate
+Molybdosilicate Method
+Molybdovanadophosphoric acid Spectrophotometric Method/AOAC 986.24
+Monier Williams Method
+Monnier William
+Most Probable Number (MPN)
+Multiple Tube Fermentation
+Multiple Tube Fermentation Technique
+Multiple Tube Fermentation Techniques
+Multiple Tube Technique
+Multiple Tube/Pour Plate/Petrifiln
+Munson and Walker
+Munson-Walker General Method
+Munson-Walker Method
+N/A
+NDIR
+NIOSH 8003
+Nephelometric
+Nephelometric Method/Standard Method 2130 B
+Nephelometry
+Nephelometry (SMEWW 2130B)
+Nine Points Hedonic Rating Score
+Nitric Acid-Hydrochloric Acid Digestion & Direct Air-Acetylene Flame Method (Direct Aspiration)/Standard Method 3030 F & 3111 B
+Non-Dispersive Infrared Reading
+None/AOAC 923.03/AOAC 925.10/AOAC 981.10/AOAC 945.44/AOAC 923.09/Calculation/Nutrition Facts Computation
+None/AOAC 940.26/AOAC 934.01/AOAC 981.10/AOAC 920.39/AOAC 923.09/Calculation/Nutrition Facts Computation
+Novasina Water Activity Meter
+OIML Standards
+Open Reflux Method
+Optical Rotation
+Outside Diameter
+Wall Thickness
+Mass / Length
+Mass of Zinc Coating Test
+Bend / Flattening Test
+Outside Diameter
+Outside Diameter
+Wall Thickness
+Ovality
+Longitudinal Reversion
+Marking
+Outside Diameter  Wall Thickness Chemical Test Mechanical Test (tensile strength, yield strength,  flattening bending)
+Outside Diameter Test
+Wall Thickness Test
+Mass / Length Test
+Bend Test
+Flattening Test
+Marking Identification Test
+Outside Diameter Test
+Wall Thickness Test
+Mass / Length Test
+Bend Test
+Flattening Test
+Marking Identification Test
+Hydrostatic Pressure (Dia. < 50 mm) *
+Outside Diameter Test
+Wall Thickness Test 
+Mass / Length Test 
+Bend Test 
+Flattening Test 
+Mass of Zinc Coating 
+Marking Identification Test
+Oven
+Oven Drying
+Oven/Vaccum Oven
+Oxoid Listeria (Rapid Test)
+Oxoid Manual 1998, 8th ed.
+PCR
+PNS 1227
+PNS 136
+PNS 1479
+PNS 2049
+PNS 211
+PNS 239 /FMVSS 116 PART A 6.1
+PNS 239 /FMVSS 116 PART A 6.2
+PNS 239 /FMVSS 116 PART H 6.8
+PNS 239 /FMVSS 116 PART K 6.11
+PNS 239 /FMVSS 116 PART L 6.12
+PNS 26
+PNS 49
+PNS 49/211
+PNS EN 14078 Modified
+PNS EN 14103 Modified
+PNS EN 14331 Modified
+PNS-03
+PNS: 196:2000
+PTRI Recommended
+Paper Disc
+Paper Disc Diffusion
+Paper Disc Diffusion Method
+Pararosaniline
+Pararosaniline (Colorimetric)
+Parr Bomb Calorimeter
+Partition - Gravimetric
+Partition Gravimetric Method
+Performance Test Markings Identification Test
+Performance Test Markings Identification Test Sieve Analysis Test
+Performance Test Markings/ Labelling Identification Test Test for Duration of Discharge
+Persulfate Digestion
+Petrifilm
+Petrifilm / Multiple Tube Fermentation Technique
+Petrifilm / Pour Plate
+Petrifilm / Spread Plate
+Petroleum Ether Extraction (SMEWW 5520B)
+Ph Meter
+Phenanthroline
+Phenate
+Phenoldisulfonic Acid
+Philippine FDA REN Format
+Photoionization Detector
+Photometer Method
+Photometric
+Photometry
+Physical Dimension Test (Tire overall diameter)
+Physical Dimension Test (Tire overall width)
+Physical Dimension Test (Tire Tread Depth)
+Plunger Test
+Bead-unseating test
+Physical Dimension Test (Tire overall diameter)
+Markings Identification Test
+Physical Properties (nominal thickness, pitch distance, pitch depth)
+Tensile Strength, Tensile Stress at Break
+Impact Strength
+Flexural Strength
+Modulus of Elasticity, Elongation at Break
+Physical Test 
+Markings Identification Test
+Mechanical Test
+Platinum Standard
+Polarimetry
+Potentiometric
+Potentiometric Method/AOAC 960.19
+Potentiometric Method/AOAC 981.12
+Potentiometry
+Pour / Spread Plate
+Pour Plate
+Pour Plate (FDA-Phils)
+Pour Plate Method
+Pour Plate Method (subcontracted)
+Pour Plate Method-VRBA
+Pour Plate Technique
+Pour Plate, MPN
+Pour plate / Petrifilm
+Presence-Absence
+Presence/Absence
+Presence/Absence (Rapid test using Rambach Agar)
+Presumptive - Conventional
+Probe Method/EDTA-Titrimetic Method/TDS dried at 180°C
+Probes Array Technique
+Probit Method
+Proof Test
+Breaking Strength Test
+Bending Test
+Galvanizing Test
+Protection Level Calibration
+Pure Material/Premix/Feed
+Purity
+Pycnometer
+Qualitative
+Qualitative Method
+Qualitative Test
+Qualitative_
+RCM-010
+RRIM METHOD
+Radioimmunoassay
+Randall/Soxtec/Ether Extraction-Submersion Method (Modified) with Acid-Hydrolysis/AOAC 2003.05 and AOAC 922.06
+Randall/Soxtec/Ether Extraction-Submersion Method (Modified)/AOAC 2003.05 and AOAC 920.85
+Rapid (Chromogenic)
+Rapid Plastimeter Method
+Rapid Test Kit (AOAC 989.13)/ FDA BAM 8th ed./ Compendium of Methods for Methods for the Microbiological Examination of Foods, 4th ed.
+Rapid assay kit
+Rapid/Conventional
+Real Time - PCR (Polymerase Chain Reaction)
+Real-time PCR method
+Real-time Polymerase Chain Reaction (In-house validated method)
+Reflux
+Refractometer
+Refractometer Method/AOAC 932.12
+Refractometric
+Refractometric Method
+Refractometry
+Reveal 2.0 for Salmonella(Rapid Test)
+Roese Gottlieb Method
+Rotary Evaporator
+SGS-0001-13
+SMEWW
+SMEWW 2340 C Titrimetric Method
+SMEWW 2510 B Laboratory Method
+SMEWW 2540 B Total Solids Dried at 103–105°C
+SMEWW 2540 C Gravimetric Method
+SMEWW 2540 C Total Dissolved Solids Dried at 180°C
+SMEWW 2540 D Total Suspended Solids Dried at 103–105°C
+SMEWW 2540 F  Imhoff Cone Method
+SMEWW 3111B, 3030 F
+SMEWW 4500 CI- D - APHA
+SMEWW 4500- CO2 C
+SMEWW 4500-Cl- B Iodometric Method
+SMEWW 4500-H+ B Electrometric Method
+SMEWW 4500-O C Azide Modification Method
+SMEWW 4500-P D Stannous Chloride Method
+SMEWW 5210 B 5-Day BOD Test
+SMEWW 5520 B Liquid-liquid, Partition-Gravimetric Method
+SMEWW 9215 (2012)
+SMEWW 9215 B Pour Plate Method
+SMEWW 9221 (2012)
+SPADNS Method
+SPEX Automated X-press (per sample)
+SPEX Mixer (per sample)
+STPB (AOAC 958.02), AAS (AOAC 965.09)
+Salicylate Method (0 to 0.50 mg/L NH3-N)/HACH Method 8155
+Sample Preparation
+Seat Static Load
+Back Static Load
+Arm & Wings Sideways Static Load
+Seat Fatigue Test
+Back Fatigue Test
+Leg Forward Static Load
+Leg Sideways Static Load
+Diagonal Base Load
+Seat Impact Test
+Back Impact Test
+Arm Impact Test
+Drop Test
+Physical Characteristics
+Markings
+Seat static load test
+Back static load test
+Arm & wings sideways static load test
+Arm downwards static load test
+Seat fatigue test
+Back fatigue test
+Leg forward static load test
+Leg sideways static load test
+Diagonal base load test
+Seat impact test
+Back impact test
+Arm impact test
+Drop test
+Sedimentation
+Selve Size
+Semi-micro Kjeldahl Distillation
+Sensory
+Settle Plate
+Shearing-Disc Viscometer Method
+Silver Diethyldithiocarbamate
+Silver Diethyldithiocarbamate Method; Quantofix Arsenic Test Kit
+Silver Staining for Nucleolar Organizer Regions
+Solid - Liquid Ethanol Extraction
+Solvent Distillation
+Solvent Distillation (spices)
+Solvent Extraction
+Solvent Extraction/Gravimetric (acid Hydrolysis)
+Solvent extraction
+Soxhlet
+Soxhlet Extraction
+Soxhlet Method
+Specific Ion Electrode
+Spectrometry
+Spectrometry (AOAC 958.01)
+Spectrophotometric
+Spectrophotometric Molybdovanadophosphate Method/AOAC 958.01
+Spectrophotometry
+Spectrophotometry (ASTM D992.71)
+Spectrophotometry (SMEWW 3500Cr B)
+Spectrophotometry (SMEWW 4500NO2 B)
+Spectrophotometry (SMEWW 4500P D)
+Spectrophotometry (SMEWW 4500SiO2 C)
+Spectrophotometry (SMEWW 5540C)
+Spectrophotometry (SMEWW SO4 E)
+Spread Plate
+Spread Plate (FDA-Phils)
+Standard Methods for the Examination of Dairy Products 17th ed., 2004
+Stannous Chloride
+Static Load
+Impact Test
+Rear-leg Test
+Sterility Test
+Sterility using TSB (big)
+Sterility using TSB (small)
+Streak Plate
+Sulfur Analyzer
+Surface Finish
+Outside Diameter
+Wall Thickness
+Ovality
+Impact Strength 
+Longitudinal Reversion
+Marking
+Swab Contact Method (Pour Plate)
+T 462
+TAPPI 204 om-93
+TAPPI 207 om-08
+TAPPI 211 om-07
+TAPPI 212 om-07
+TAPPI 222 om-88
+TAPPI 412 om-06
+TAPPI 437
+TAPPI 509 om-88
+TAPPI 9 wd-75
+TAPPI Standard Method T13M
+TAPPI T 204 cm-97
+TAPPI T 222 om-02
+TM-419
+TM-601
+TM-602
+TM-610
+TM-611
+TM-612
+TM-616
+TM-617
+TM-619
+TM-623
+TM-623 (per additional 1m)
+TM-625
+TM-626
+TM-CAL-001
+TM-CAL-002
+TM-CAL-003
+TM-CAL-004
+TM-CAL-006
+TM-CAL-008
+Tech AA III
+Tech AA III (Triplicate)
+Tech. Method of Analysis by Griffin
+Tensile Strength & Elongation
+Bendability
+Shapes, Dimension, Mass & Tolerances
+Appearance
+Chemical Analysis
+Tensile Strength, Tensile Set-after-break 
+Tensile stress at given-elongation, Ultimate Elongation
+Yield Point
+Tensile Strength, Ultimate, Yield, Elongation
+Tension Testing
+Testo Flue Gas Analyzer
+Therapy level calibration
+Thermal Decomposition, Amalgamation and Atomic Spectrophotometry
+Thermogravimetric Method
+Thermohygrometer calibration
+Thickness
+Outside Diameter
+Inside Diameter
+Weathering Test
+Hardness, HRB
+Chemical Test (% P, % S)
+Mechanical Properties (Hardness Requirement)
+Washer Marking
+Thickness Test
+Tensile Strength / Elongation 
+Tensile Strength of Splice Area
+Set-after-Ageing
+Appearance and Airtightness
+Markings Identification Test
+Thin Layer Chromatography
+Titration
+Titration (Salt)
+Titration Method/AOAC 930.35 J
+Titration Method/AOAC 940.28
+Titration Method/AOAC 965.33
+Titration Method/Standard Method 2310 B
+Titration Method/Standard Method 2320 B
+Titrimetric
+Titrimetric Method
+Titrimetric Method, AOAC 925.56
+Titrimetric Method, AOAC 956.03
+Titrimetric Method/AOAC 942.15
+Titrimetric Method/AOAC 942.15 new
+Titrimetric Method/AOAC 944.10
+Titrimetric Method/AOAC 962.12
+Titrimetric/Ammonium Acetate
+Titrimetric/ETDA
+Titrimetry
+Titrimetry (AOAC 940.28)
+Titrimetry (AOAC 942.15)
+Titrimetry (AOAC 965.33)
+Titrimetry (Oil)
+Titrimetry (SMEWW 2310B)
+Titrimetry (SMEWW 2320B)
+Titrimetry (SMEWW 2340C)
+Titrimetry (SMEWW 4500Cl B)
+Titrimetry (SMEWW 5210B)
+Titrimetry (SMEWW 5220B)
+Titrimetry - Hannus Method (AOAC 920.158)
+Titrimetry ASTM 169-92
+Titrimetry(Argentometric)
+Total Dissolved Soilds Dried at 180°C/Standard Method 2540 C
+Total Solids Dried at 103-105°C/Standard Method 2540 B
+Total Solids Dried at 180°C
+Total Suspended Solids Dried at 103-105°C/Standard Method 2540 D
+Totalized
+Tritrimetric (Modified Method)
+Turbidimetric
+Turbidimetric Method/Standard Method 4500-SO4-2 E
+Turbidimetry
+Turbidimetry/Gravimetry
+UL 94
+US EPA 7473 (DMA-80)
+USEPA Method 5 (Gravimetric)
+USEPA Method 6/8 (Barium Thorin Titration)
+USEPA Method 7 (Phenoldisulfonic Acid-Colorimetric)
+USP 36 / Philippine Pharmacopeia (PP)
+USP36
+UV Persulfate
+UV-VIS
+UV-VIS Spectrophotometry
+UV-Vis
+UV-Vis Method
+Ubbelohde/Cannon Fenske
+Using Distillation and Titration Method /Kjedahl
+Vacuum Oven
+Vacuum Oven Method/AOAC 968.11
+Vacuum Oven-Drying
+Vadolomolybdate Titrimetric
+Vanadomolybdophosphoric Acid Colorimetric Method/Standard Method 4500-P C
+Vanadomolybdophosphoric Acid Colorimetry
+Vernier Caliper Calibration
+Visible Spectrophotometry
+Visual
+Visual (SMEWW 2120B) Spectrophotometry (SMEWW 2120C)
+Visual Comparison
+Visual Inspection
+Visual inspection
+Volhard (Volumetric and Titrimetric) Method/AOAC 937.09
+Volhard Method
+Volhard Titration
+Volhard Titration Method
+Volume Displacement Method
+Volume from specific gravity (AOAC 28.1.04)
+Volumetric
+Volumetric (11000-15000L)
+Volumetric (16000-20000 L)
+Volumetric (21000-25000 L)
+Volumetric (26000-30000 L)
+Volumetric (31000-35000 L)
+Volumetric (36000-40000 L)
+Walkley Black
+Walkley-Black
+Walky-Black Titration
+Water Activity Meter
+Weatherability Test (1,000 hours)
+Tensile Bar Fabrication
+Tensile Test
+Static Load
+Impact Test
+Rear Leg Test
+Markings Identification Test
+Weende Method
+Wet
+Wijs Method, AOCS - Cd-1-25
+Workmanship
+Outside Diameter
+Wall Thickness
+Impact Resistance
+Extrusion Quality
+Flattening
+Pipe Stiffness
+Markings
+X-Ray Fluorescent (Non-ISO)
+by computation
+by use of hydrometer
+cm-017
+conical mandrel Test
+lalamove pickup
+linear
+mass
+n/a
+none
+pH Meter
+pencil test
+pick up
+preparation
+probe
+spectrophometry
+stormer viscometer
+vat
