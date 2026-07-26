@@ -40,7 +40,7 @@ DOST-ITDI's OneLab laboratory network. No prior agent-building experience requir
 
 <div class="cta">
 <a class="btn btn-primary" href="setup_guide.html">Setup Guide →</a>
-<a class="btn btn-outline" href="https://github.com/gates-dost-asti/A2A-MCPv2">View on GitHub</a>
+<a class="btn btn-outline" href="https://github.com/gates-dost-asti/DOST-GATES-A2A-MCP-Workshop">View on GitHub</a>
 </div>
 </div>
 
