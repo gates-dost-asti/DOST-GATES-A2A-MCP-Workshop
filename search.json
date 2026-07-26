@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GATES Workshop",
+    "section": "",
+    "text": "GATES Workshop\n\nLessons Setup Resources"
+  },
+  {
+    "objectID": "index.html#about-this-workshop",
+    "href": "index.html#about-this-workshop",
+    "title": "GATES Workshop",
+    "section": "About This Workshop",
+    "text": "About This Workshop\nThis workshop is built around one real-world case study. You build the tools, workflows, and guardrails behind an assistant for OneLab, the DOST-ITDI laboratory testing network spanning the Philippines and neighboring countries. Then you expose it as an MCP server any MCP-compatible client can call, and refactor it into its own Agent2Agent (A2A) server that other agents can discover and call.\nBy the end, you will have built and run agents across three hands-on exercises: individual tools, an MCP server, and a standalone A2A agent, implementing the protocols rather than just reading about them.\n\nBy the end of this workshop, you’ll be able to:\n\n\nExplain what MCP and A2A are, how they differ, and when to reach for each\n\n\nTurn a plain Python function into a discoverable, callable tool with FastMCP\n\n\nGive an LLM tools for SQL, retrieval (RAG), geocoding, and code generation\n\n\nAdd security guardrails (toxicity, jailbreak, and SQL-injection filtering) to an LLM-facing input\n\n\nRefactor a chat loop into a single-turn answer_query() method, then describe an agent’s identity and capabilities with an AgentCard/AgentSkill and serve it over HTTP with A2AStarletteApplication"
+  },
+  {
+    "objectID": "index.html#core-concepts-in-plain-terms",
+    "href": "index.html#core-concepts-in-plain-terms",
+    "title": "GATES Workshop",
+    "section": "Core Concepts, in Plain Terms",
+    "text": "Core Concepts, in Plain Terms\n\n\n\n🔌 What is MCP?\n\n\nThe Model Context Protocol is a standard way to expose functions, or “tools,” to an LLM and to any client that speaks the protocol. Instead of hard-wiring a chatbot to a fixed set of Python functions, you stand up an MCP server that advertises what it can do; any MCP client (a chatbot, an IDE, another agent) can discover those tools at runtime and call them.\n\n\nThink of it as a USB port for tools: one interface, any compatible client can plug in.\n\n\n\n\n🤝 What is A2A?\n\n\nThe Agent2Agent Protocol does for whole agents what MCP does for tools. An agent publishes an AgentCard (its identity and capabilities) and one or more AgentSkills (what it can be asked to do). Other agents, or a human-facing client, can discover an AgentCard, then call that agent over HTTP without knowing anything about its internals.\n\n\nWhere MCP connects an agent to its tools, A2A connects agents to each other.\n\n\n\n\n🧩 How they fit together\n\n\nA single agent is often both an MCP client and an A2A server at once: it calls out to MCP tools to get work done (e.g. querying a database), and it exposes itself over A2A so other agents can hand it tasks. Exercise 3 builds exactly this: the OneLab assistant becomes an MCP client internally, and an A2A server externally."
+  },
+  {
+    "objectID": "index.html#lessons",
+    "href": "index.html#lessons",
+    "title": "GATES Workshop",
+    "section": "Lessons",
+    "text": "Lessons\n\n\nExercise 1: Building the Tools and Workflows Build the txt2sql, RAG, waypoints, nearest-labs, and hotspot-analysis workflows, an HTML map visualization tool, and the toxicity/jailbreak/SQL-injection threat filter that guards them.\n\n\nExercise 2: Creating an MCP Server Wrap the five workflows as MCP tools with FastMCP, run the server over stdio, and inspect it with the MCP Inspector.\n\n\nExercise 3: Refactoring the Chatbot for A2A Turn the interactive MCP_ChatBot loop into a single-turn answer_query() method, then wrap it in onelab_agent.py as an AgentCard/AgentSkill-described A2A server. View proposed solution →\n\n\nReference: the finished server and chatbot onelab_server/ and onelab_chatbot/: the complete, deployable MCP server plus an intent-routing chatbot client. Try the example queries in TESTQUERIES.md, including ones designed to test the filters themselves.\n\n\n\nThe 5 tools you’ll build: txt2sql_workflow, rag_workflow, waypoints_workflow, nearest_labs_workflow, analysis_workflow, plus the answer_query() method and the OneLab Agent A2A wrapper."
+  },
+  {
+    "objectID": "index.html#sample-analysis-output",
+    "href": "index.html#sample-analysis-output",
+    "title": "GATES Workshop",
+    "section": "Sample Analysis Output",
+    "text": "Sample Analysis Output\n\nThe hotspot and service-area workflow doesn’t just answer questions. The same underlying data drives the maps and charts below, generated straight from analytics/tables/.\n\n\n\n\n\nProvince hotspot classification\n\n\n\n\n\nAgency count by province\n\n\n\n\n\nTop 10 provinces by agency count\n\n\n\n\n\nPopulation by service-area band"
+  },
+  {
+    "objectID": "index.html#how-mcp-fits-together",
+    "href": "index.html#how-mcp-fits-together",
+    "title": "GATES Workshop",
+    "section": "How MCP Fits Together",
+    "text": "How MCP Fits Together\n\nA client asks the server what tools it has, then calls one. It’s the same round trip whether the “client” is a chatbot, an IDE, or another agent.\n\n\n\n\n\n\nClient discovers available tools\n\n\n\n\n\n\nClient invokes a tool by name\n\n\n\n\n\n\nServer responds with its tool list\n\n\n\n\n\n\nServer executes the tool and returns the result\n\n\n\n\n\n\n\n:::\n\nWhat You’ll Learn\n\n\nTool-calling workflows: txt2sql, RAG, geocoding, and code-generation tools built from scratch on top of the OpenAI API.\n\n\nMCP servers and clients: expose Python functions as discoverable tools with FastMCP and call them over stdio.\n\n\nAgent2Agent protocol: describe an agent with an AgentCard/AgentSkill and serve it with A2AStarletteApplication.\n\n\nGeospatial analysis: nearest-lab search, waypoints/directions, and province-level hotspot and underserved-area analysis.\n\n\nSecurity guardrails: toxicity, jailbreak, prompt-injection, and SQL-injection filtering on user input.\n\n\n\n\n\n\nGetting Started\n\nPrerequisites: VS Code, Miniconda, Python 3.12, and Node.js LTS. Comfortable reading Python and running Jupyter notebooks. No prior MCP/A2A experience needed. Full step-by-step install instructions (VS Code extensions, conda environment, kernel selection) are in the Setup Guide.\n\nconda create -n gates_workshop_env python=3.12 -y\nconda activate gates_workshop_env\n\ncd path/to/workshop\npip install -r requirements.txt\nThen open a notebook in VS Code, select the gates_workshop_env kernel, and start with Exercise-1.ipynb.\n\nYou’ll also need an OPENAI_API_KEY in a local .env file, since every exercise calls the OpenAI API. See the Setup Guide for details.\n\n\n\n\nRepository Structure\nOneLab-Workshop/\n├── index.qmd                 # This site\n├── Exercise-1.ipynb          # Tools & workflows\n├── Exercise-2.ipynb          # MCP server\n├── Exercise-3/                # Refactor for A2A\n├── onelab_server/            # Finished MCP server (FastMCP)\n├── onelab_chatbot/           # Finished chatbot client + threat filters\n├── analytics/\n│   ├── tables/                # Hotspot & service-area analysis outputs\n│   ├── charts/                 # Sample analysis charts\n│   └── maps/                   # Sample analysis maps\n├── unique_values/            # Reference value lists (agencies, tests, ...)\n├── OneLab.db / population.db # Workshop datasets\n├── TESTQUERIES.md            # Example queries per workflow\n├── setup_guide.html          # Environment setup guide\n└── requirements.txt\n\n\n\nGlossary\n\n\nMCP (Model Context Protocol)\n\n\nAn open standard for exposing tools/functions to LLMs and clients in a discoverable, self-describing way.\n\n\nMCP server\n\n\nA process that advertises a set of tools (name, description, input schema) and executes them when called. Built here with FastMCP.\n\n\nMCP client\n\n\nAnything that talks to an MCP server: a chatbot, the MCP Inspector, an IDE, or another agent.\n\n\nstdio transport\n\n\nThe simplest MCP transport: client and server communicate over standard input/output of a local subprocess. Used throughout this workshop.\n\n\nA2A (Agent2Agent Protocol)\n\n\nAn open standard for agents to advertise their capabilities and receive tasks from other agents over HTTP.\n\n\nAgentCard\n\n\nA small JSON document describing an agent’s identity, URL, and skills. It’s the A2A equivalent of an MCP tool list.\n\n\nAgentSkill\n\n\nOne capability an agent exposes as part of its AgentCard.\n\n\nA2AStarletteApplication\n\n\nThe ASGI application (built on Starlette) that serves an agent’s AgentCard and handles incoming A2A task requests.\n\n\nRAG (Retrieval-Augmented Generation)\n\n\nAnswering a query by first retrieving relevant document passages, then grounding the LLM’s response in them.\n\n\ntxt2sql\n\n\nTranslating a natural-language question into a SQL query that can be run against a structured database.\n\n\nGuardrails\n\n\nInput/output filters that catch toxicity, jailbreak attempts, prompt injection, and SQL injection before they reach the LLM or database.\n\n\n\n\n\n\nResources\n\n\nModel Context Protocol: protocol spec and docs\nAgent2Agent Protocol · Python SDK\nStarlette: the ASGI framework behind the A2A server built in Exercise 3\nuv: the Python environment/package manager used to run the A2A agent in Exercise 3\nNode.js: required for the MCP Inspector\n\n\n\n\n\n\n\nGATES Workshop · DOST-ASTI"
+  },
+  {
+    "objectID": "index.html#what-youll-learn",
+    "href": "index.html#what-youll-learn",
+    "title": "GATES Workshop",
+    "section": "What You’ll Learn",
+    "text": "What You’ll Learn\n\n\nTool-calling workflows: txt2sql, RAG, geocoding, and code-generation tools built from scratch on top of the OpenAI API.\n\n\nMCP servers and clients: expose Python functions as discoverable tools with FastMCP and call them over stdio.\n\n\nAgent2Agent protocol: describe an agent with an AgentCard/AgentSkill and serve it with A2AStarletteApplication.\n\n\nGeospatial analysis: nearest-lab search, waypoints/directions, and province-level hotspot and underserved-area analysis.\n\n\nSecurity guardrails: toxicity, jailbreak, prompt-injection, and SQL-injection filtering on user input."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "GATES Workshop",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPrerequisites: VS Code, Miniconda, Python 3.12, and Node.js LTS. Comfortable reading Python and running Jupyter notebooks. No prior MCP/A2A experience needed. Full step-by-step install instructions (VS Code extensions, conda environment, kernel selection) are in the Setup Guide.\n\nconda create -n gates_workshop_env python=3.12 -y\nconda activate gates_workshop_env\n\ncd path/to/workshop\npip install -r requirements.txt\nThen open a notebook in VS Code, select the gates_workshop_env kernel, and start with Exercise-1.ipynb.\n\nYou’ll also need an OPENAI_API_KEY in a local .env file, since every exercise calls the OpenAI API. See the Setup Guide for details."
+  },
+  {
+    "objectID": "index.html#repository-structure",
+    "href": "index.html#repository-structure",
+    "title": "GATES Workshop",
+    "section": "Repository Structure",
+    "text": "Repository Structure\nOneLab-Workshop/\n├── index.qmd                 # This site\n├── Exercise-1.ipynb          # Tools & workflows\n├── Exercise-2.ipynb          # MCP server\n├── Exercise-3/                # Refactor for A2A\n├── onelab_server/            # Finished MCP server (FastMCP)\n├── onelab_chatbot/           # Finished chatbot client + threat filters\n├── analytics/\n│   ├── tables/                # Hotspot & service-area analysis outputs\n│   ├── charts/                 # Sample analysis charts\n│   └── maps/                   # Sample analysis maps\n├── unique_values/            # Reference value lists (agencies, tests, ...)\n├── OneLab.db / population.db # Workshop datasets\n├── TESTQUERIES.md            # Example queries per workflow\n├── setup_guide.html          # Environment setup guide\n└── requirements.txt"
+  },
+  {
+    "objectID": "index.html#glossary",
+    "href": "index.html#glossary",
+    "title": "GATES Workshop",
+    "section": "Glossary",
+    "text": "Glossary\n\n\nMCP (Model Context Protocol)\n\n\nAn open standard for exposing tools/functions to LLMs and clients in a discoverable, self-describing way.\n\n\nMCP server\n\n\nA process that advertises a set of tools (name, description, input schema) and executes them when called. Built here with FastMCP.\n\n\nMCP client\n\n\nAnything that talks to an MCP server: a chatbot, the MCP Inspector, an IDE, or another agent.\n\n\nstdio transport\n\n\nThe simplest MCP transport: client and server communicate over standard input/output of a local subprocess. Used throughout this workshop.\n\n\nA2A (Agent2Agent Protocol)\n\n\nAn open standard for agents to advertise their capabilities and receive tasks from other agents over HTTP.\n\n\nAgentCard\n\n\nA small JSON document describing an agent’s identity, URL, and skills. It’s the A2A equivalent of an MCP tool list.\n\n\nAgentSkill\n\n\nOne capability an agent exposes as part of its AgentCard.\n\n\nA2AStarletteApplication\n\n\nThe ASGI application (built on Starlette) that serves an agent’s AgentCard and handles incoming A2A task requests.\n\n\nRAG (Retrieval-Augmented Generation)\n\n\nAnswering a query by first retrieving relevant document passages, then grounding the LLM’s response in them.\n\n\ntxt2sql\n\n\nTranslating a natural-language question into a SQL query that can be run against a structured database.\n\n\nGuardrails\n\n\nInput/output filters that catch toxicity, jailbreak attempts, prompt injection, and SQL injection before they reach the LLM or database."
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "GATES Workshop",
+    "section": "Resources",
+    "text": "Resources\n\n\nModel Context Protocol: protocol spec and docs\nAgent2Agent Protocol · Python SDK\nStarlette: the ASGI framework behind the A2A server built in Exercise 3\nuv: the Python environment/package manager used to run the A2A agent in Exercise 3\nNode.js: required for the MCP Inspector"
+  }
+]
