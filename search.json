@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "GATES Workshop\n\nLessons Presentations Setup Resources"
+  },
+  {
+    "objectID": "presentations.html#slide-decks",
+    "href": "presentations.html#slide-decks",
+    "title": "Presentations",
+    "section": "Slide Decks",
+    "text": "Slide Decks\n\n\nThe GATES AI Ecosystem An overview of the wider GATES AI ecosystem that this workshop’s OneLab assistant is built within.\n\n\nModule 1: Agentic AI Foundations of agentic AI and tool-calling workflows, covered in Exercise 1.\n\n\nModule 2.5: Agentic AI A follow-on module extending the agentic AI foundations from Module 1.\n\n\nModule 3: Agentic AI Continued agentic AI concepts building toward the MCP server exercise.\n\n\nModule 4: Agentic AI The final agentic AI module ahead of the Model Context Protocol lecture.\n\n\nModel Context Protocol How MCP servers and clients expose and discover tools, covered in Exercise 2.\n\n\nAgent-to-Agent Protocol How A2A lets agents advertise capabilities and hand off tasks, covered in Exercise 3."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "GATES Workshop",
     "section": "",
-    "text": "GATES Workshop\n\nLessons Setup Resources"
+    "text": "GATES Workshop\n\nLessons Presentations Setup Resources"
   },
   {
     "objectID": "index.html#about-this-workshop",
