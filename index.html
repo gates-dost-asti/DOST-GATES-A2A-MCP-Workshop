@@ -4050,9 +4050,10 @@ display: none;
 display: flex;
 align-items: center;
 justify-content: space-between;
-gap: 1.4rem;
-padding: 0.8rem 0.2rem 1rem;
-margin-bottom: 1.6rem;
+flex-wrap: wrap;
+gap: 1rem 1.8rem;
+padding: 1rem 0.2rem 1.2rem;
+margin-bottom: 1.8rem;
 font-size: 0.92rem;
 font-weight: 600;
 border-bottom: 3px solid transparent;
@@ -4077,19 +4078,32 @@ text-decoration: underline;
 .site-nav .nav-links {
 display: flex;
 align-items: center;
-gap: 1.4rem;
+flex-wrap: wrap;
+gap: 0.3rem 0.6rem;
 }
 .site-nav a {
 color: var(--gates-blue-dark);
 text-decoration: none;
+letter-spacing: 0.01em;
+padding: 0.4rem 0.75rem;
+border-radius: 999px;
 }
 .site-nav a.current {
 color: var(--gates-orange);
-border-bottom: 2px solid var(--gates-orange);
-padding-bottom: 0.15rem;
+background: rgba(242, 148, 31, 0.12);
 }
 .site-nav a:hover {
-text-decoration: underline;
+background: rgba(38, 67, 214, 0.08);
+text-decoration: none;
+}
+.site-nav a.current:hover {
+background: rgba(242, 148, 31, 0.18);
+}
+@media (max-width: 640px) {
+.site-nav .nav-links {
+width: 100%;
+justify-content: flex-start;
+}
 }
 .hero {
 background: linear-gradient(135deg, var(--gates-blue-dark) 0%, var(--gates-blue) 55%, #3d3ea8 100%);
