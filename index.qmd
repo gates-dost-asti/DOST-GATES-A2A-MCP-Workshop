@@ -15,6 +15,7 @@ format:
 <a href="index.html" class="brand"><img src="images/gates-logomark.png" alt="GATES Program logo"> GATES Workshop</a>
 <div class="nav-links">
 <a href="#lessons">Lessons</a>
+<a href="presentations.html">Presentations</a>
 <a href="#getting-started">Setup</a>
 <a href="#resources">Resources</a>
 </div>

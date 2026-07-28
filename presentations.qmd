@@ -1,0 +1,73 @@
+---
+title: "Presentations"
+format:
+  html:
+    embed-resources: true
+    page-layout: full
+    toc: false
+    css: styles.css
+    include-in-header: favicon-include.html
+    grid:
+      body-width: 1100px
+---
+
+<nav class="site-nav">
+<a href="index.html" class="brand"><img src="images/gates-logomark.png" alt="GATES Program logo"> GATES Workshop</a>
+<div class="nav-links">
+<a href="index.html#lessons">Lessons</a>
+<a href="presentations.html" class="current">Presentations</a>
+<a href="index.html#getting-started">Setup</a>
+<a href="index.html#resources">Resources</a>
+</div>
+</nav>
+
+<div class="subpage-hero hero-presentations">
+<img class="corner-logo" src="images/gates-logomark.png" alt="GATES Program logo">
+<a class="back-link" href="index.html">← Back to workshop overview</a>
+<h1>Lecture Presentations</h1>
+<p class="tagline">
+The slide decks used in this workshop's live sessions, covering the GATES AI
+ecosystem and each agentic AI, MCP, and A2A module. Open in the browser or
+download for offline reference.
+</p>
+</div>
+
+::: {.landing-section}
+## Slide Decks
+
+<ol class="lesson-list">
+<li>
+<a class="lesson-title" href="presentations/gates-ai-ecosystem-overview.pdf">The GATES AI Ecosystem</a>
+<span class="desc">An overview of the wider GATES AI ecosystem that this workshop's OneLab assistant is built within.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/01-agentic-ai-module-1.pdf">Module 1: Agentic AI</a>
+<span class="desc">Foundations of agentic AI and tool-calling workflows, covered in Exercise 1.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/02-agentic-ai-module-2-5.pdf">Module 2.5: Agentic AI</a>
+<span class="desc">A follow-on module extending the agentic AI foundations from Module 1.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/03-agentic-ai-module-3.pdf">Module 3: Agentic AI</a>
+<span class="desc">Continued agentic AI concepts building toward the MCP server exercise.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/04-agentic-ai-module-4.pdf">Module 4: Agentic AI</a>
+<span class="desc">The final agentic AI module ahead of the Model Context Protocol lecture.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/06-model-context-protocol.pdf">Model Context Protocol</a>
+<span class="desc">How MCP servers and clients expose and discover tools, covered in Exercise 2.</span>
+</li>
+<li>
+<a class="lesson-title" href="presentations/07-agent-to-agent-protocol.pdf">Agent-to-Agent Protocol</a>
+<span class="desc">How A2A lets agents advertise capabilities and hand off tasks, covered in Exercise 3.</span>
+</li>
+</ol>
+:::
+
+<footer class="landing-footer">
+<img src="images/gates-logo-horizontal.png" alt="GATES Program">
+<div>GATES Workshop &middot; DOST-ASTI</div>
+</footer>

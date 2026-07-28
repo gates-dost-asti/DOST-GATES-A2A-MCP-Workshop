@@ -3,10 +3,12 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - presentations.qmd
   resources:
     - setup_guide.html
     - favicon-include.html
     - images/*
+    - presentations/*
     - TESTQUERIES.md
     - Exercise-1.html
     - Exercise-1.ipynb

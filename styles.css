@@ -179,6 +179,10 @@ body {
   background: linear-gradient(135deg, #0a4a42 0%, var(--gates-teal) 60%, #14a08f 100%);
 }
 
+.subpage-hero.hero-presentations {
+  background: linear-gradient(135deg, #5c1442 0%, var(--gates-purple) 55%, var(--gates-orange) 100%);
+}
+
 .subpage-hero .corner-logo {
   position: absolute;
   top: 1.4rem;
